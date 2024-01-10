@@ -4,7 +4,6 @@
 #  KA
 
 #  Load necessary libraries
-library(argparse)
 library(googlesheets4)
 library(tidyverse)
 library(scales)
@@ -18,7 +17,7 @@ if (isTRUE(run_gs4_auth)) googlesheets4::gs4_auth()
 URL_pre <- "https://docs.google.com/spreadsheets/d"
 URL_suf <- "1mjOWHt3MS4rwYOlr0aiIeIeHrIBvzUSPBd6GnjuXES4/edit"
 URL <- paste(URL_pre, URL_suf, sep = "/")
-data <- googlesheets4::read_sheet(URL)
+data <- googlesheets4::read_sheet(URL, sheet = "yH2AX_class-proportion")
 
 #  Combine substage and genotype into a new factor with a specific order
 data <- data %>%
@@ -189,7 +188,7 @@ if (isTRUE(save_plots)) {
 }
 
 #  Run Fisher's exact and Chi-squared tests
-# Aggregate data to get the total tally for each substage, genotype, and class
+#  Aggregate data to get the total tally for each substage, genotype, and class
 aggregated_data <- data %>%
     group_by(substage, genotype, class) %>%
     summarize(total_tally = sum(tally, na.rm = TRUE), .groups = 'drop')
@@ -258,7 +257,7 @@ for (sub in names(contingency_tables)) {
         return(NA)  # Return NA if there's an error
     })
 
-    # Store the test results
+    #  Store the test results
     fisher_results[[sub]] <- fisher_test_result
     chisq_results[[sub]] <- chisq_test_result
 }

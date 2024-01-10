@@ -1,6 +1,6 @@
 #!/usr/bin/env Rscript
 
-#  Fig-3B.R
+#  Fig-4C.R
 #  KA
 
 #  Load necessary libraries
@@ -17,38 +17,35 @@ if (isTRUE(run_gs4_auth)) googlesheets4::gs4_auth()
 URL_pre <- "https://docs.google.com/spreadsheets/d"
 URL_suf <- "1mjOWHt3MS4rwYOlr0aiIeIeHrIBvzUSPBd6GnjuXES4/edit"
 URL <- paste(URL_pre, URL_suf, sep = "/")
-data <- googlesheets4::read_sheet(URL, sheet = "yH2AX_class-proportion")
+data <- googlesheets4::read_sheet(URL, sheet = "K9me3_observations")
 
 #  Further wrangle the data, calculating total sample sizes along with the
 #+ summary statistics SD and SEM
 aggregated_data <- data %>%
     dplyr::filter(class == 1) %>%
-    dplyr::select(c(factor, substage, genotype, replicate, sample_size)) %>%
+    dplyr::select(c(substage, genotype, replicate, proportion)) %>%
     dplyr::mutate(substage_genotype = paste(substage, genotype)) %>%
     dplyr::group_by(substage_genotype, substage, genotype) %>%
     dplyr::summarize(
-        mean_size = mean(sample_size) / 100,
-        sd = sd(sample_size) / 100,
+        mean_prop = mean(proportion, na.rm = TRUE),
+        sd = sd(proportion, na.rm = TRUE),
         sem = sd / sqrt(n()),
         .groups = 'drop'
     ) %>%
     dplyr::mutate(
         substage_genotype = factor(
             substage_genotype,
-            levels = c(
-                "ZEM WT", "ZEM KO", "ZL WT", "ZL KO", "PEM WT", "PEM KO",
-                "PL WT", "PL KO", "D WT", "D KO"
-            )
+            levels = c("MP WT", "MP KO", "LP WT", "LP KO", "D WT", "D KO")
         )
     )
 
 #  Plot with SD bars
 plot_sd <- ggplot2::ggplot(
-    aggregated_data, aes(x = substage_genotype, y = mean_size, fill = genotype)
+    aggregated_data, aes(x = substage_genotype, y = mean_prop, fill = genotype)
 ) +
     geom_bar(stat = "identity", position = "dodge") +
     geom_errorbar(
-        aes(ymin = mean_size - sd, ymax = mean_size + sd),
+        aes(ymin = mean_prop - sd, ymax = mean_prop + sd),
         width = 0.25,
         position = position_dodge(0.9)
     ) +
@@ -59,11 +56,11 @@ plot_sd <- ggplot2::ggplot(
 
 #  Plot with SEM bars
 plot_sem <- ggplot2::ggplot(
-    aggregated_data, aes(x = substage_genotype, y = mean_size, fill = genotype)
+    aggregated_data, aes(x = substage_genotype, y = mean_prop, fill = genotype)
 ) +
     geom_bar(stat = "identity", position = "dodge") +
     geom_errorbar(
-        aes(ymin = mean_size - sem, ymax = mean_size + sem),
+        aes(ymin = mean_prop - sem, ymax = mean_prop + sem),
         width = 0.25,
         position = position_dodge(0.9)
     ) +
@@ -82,7 +79,7 @@ save_plots <- TRUE
 if (isTRUE(save_plots)) {
     #  Save the plot with SD bars (will be saved to $HOME directory)
     ggplot2::ggsave(
-        "Fig-3B_prop-stages_SD.pdf",
+        "Fig-4C_prop-K9me3_SD.pdf",
         plot = plot_sd,
         width = 8.5,
         height = 6,
@@ -91,7 +88,7 @@ if (isTRUE(save_plots)) {
     
     #  Save the plot with SEM bars (will be saved to $HOME directory)
     ggplot2::ggsave(
-        "Fig-3B_prop-stages_SEM.pdf",
+        "Fig-4C_prop-K9me3_SEM.pdf",
         plot = plot_sem,
         width = 8.5,
         height = 6,
@@ -107,11 +104,11 @@ for (sub in substage_levels) {
     #  Filter data for WT and KO within the current substage
     data_wt <- data %>%
         dplyr::filter(class == 1 & substage == sub & genotype == "WT") %>%
-        dplyr::pull(sample_size)  # Extract the sample_size column
+        dplyr::pull(proportion)  # Extract the sample_size column
   
     data_ko <- data %>%
         dplyr::filter(class == 1 & substage == sub & genotype == "KO") %>%
-        dplyr::pull(sample_size)  # Extract the sample_size column
+        dplyr::pull(proportion)  # Extract the sample_size column
   
   #  Perform the t-test
   t_test <- t.test(data_wt, data_ko, var.equal = TRUE)
@@ -123,16 +120,12 @@ for (sub in substage_levels) {
 #  Assess p-values
 check_p_values <- TRUE
 if (isTRUE(check_p_values)) {
-    print(t_test_results$ZEM$p.value)
-    print(t_test_results$ZL$p.value)
-    print(t_test_results$PEM$p.value)
-    print(t_test_results$PL$p.value)
+    print(t_test_results$MP$p.value)
+    print(t_test_results$LP$p.value)
     print(t_test_results$D$p.value)
 }
 
 #  The p-values from t-tests are as follows:
-#+ - ZEM  1
-#+ - ZL   0.8874654
-#+ - PEM  0.8507149
-#+ - PL   0.1589297
-#+ - D    0.03323569
+#+ - MP  0.003637298
+#+ - LP  0.001263717
+#+ - D   0.0005371265
