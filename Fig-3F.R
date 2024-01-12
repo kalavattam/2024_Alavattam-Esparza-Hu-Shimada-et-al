@@ -3,16 +3,59 @@
 #  Fig-3F.R
 #  KA
 
+#  Initialize variable 'dir_script', which holds the directory path of the
+#+ current script; the path will be used to locate and save files below
+dir_script <- if (
+    #  'interactive()' checks if R is running in an interactive environment 
+    #+ (like RStudio); if true, then the code proceeds to check if the
+    #+ 'rstudioapi' package  is available and can be loaded quietly (without
+    #+ printing messages)
+    interactive() && requireNamespace("rstudioapi", quietly = TRUE)
+) {
+    #  If running interactively in RStudio, use 'rstudioapi' to get the path of 
+    #+ the current script and then use function 'dirname()' to extract the
+    #+ directory part of the path; 'rstudioapi::getSourceEditorContext()$path'
+    #+ gets the full path of the script being run in RStudio
+    dirname(rstudioapi::getSourceEditorContext()$path)
+} else {
+    #  If not running interactively (like when running a script from the
+    #+ command line), get the command line arguments
+    args <- commandArgs(trailingOnly = FALSE)
+    
+    #  From the command line arguments, find the argument that starts with
+    #+ '--file='; this is typically used to specify the script file being
+    #+ executed
+    arg_script <- args[grep("^--file=", args)]
+    
+    #  Extract the script path from the '--file=' argument
+    path_script <- sub("^--file=", "", arg_script[length(arg_script)]) 
+    
+    #  Normalize the path (convert to absolute path) and handle any errors;
+    #+ 'normalizePath' turns a relative path into an absolute path, and
+    #+ 'mustWork = FALSE' means the function won't throw an error if the path
+    #+ doesn't exist
+    normalizePath(path_script, mustWork = FALSE)
+    
+    #  Extract the directory part of the script path
+    dirname(path_script)
+}
+
 #  Load necessary libraries
-library(googlesheets4)
 library(tidyverse)
 library(scales)
 
-#  Read in Google Sheets sheet "yH2AX_all"
-URL_pre <- "https://docs.google.com/spreadsheets/d"
-URL_suf <- "1mjOWHt3MS4rwYOlr0aiIeIeHrIBvzUSPBd6GnjuXES4/edit"
-URL <- paste(URL_pre, URL_suf, sep = "/")
-data <- googlesheets4::read_sheet(URL, sheet = "SYCP1_XY_observations")
+#  Load in data from TSV file; files of interest are stored in the base
+#+ directory of the repo, which is the same location
+data <- readr::read_tsv(
+    file.path(
+        dir_script, "tsvs",
+        "wrangle-assess_blinded-scoring_Atf7ip2.SYCP1_XY_observations_run-3.tsv"
+    ),
+    show_col_types = FALSE
+) %>%
+    
+    #  Convert the proportions to numeric format (if it's not already)
+    dplyr::mutate(proportion = as.numeric(gsub("%", "", proportion)) / 100)
 
 #  Further wrangle the data, calculating total sample sizes along with the
 #+ summary statistics SD and SEM
@@ -68,7 +111,7 @@ save_plots <- TRUE
 if (isTRUE(save_plots)) {
     #  Save the plot with SD bars (will be saved to $HOME directory)
     ggplot2::ggsave(
-        "Fig-3F_prop-SYCP1-XY_SD.pdf",
+        "Fig-3F_prop-SYCP1-XY_SD_run-3.pdf",
         plot = plot_sd,
         width = 8.5,
         height = 6,
@@ -77,7 +120,7 @@ if (isTRUE(save_plots)) {
     
     #  Save the plot with SEM bars (will be saved to $HOME directory)
     ggplot2::ggsave(
-        "Fig-3F_prop-SYCP1-XY_SEM.pdf",
+        "Fig-3F_prop-SYCP1-XY_SEM_run-3.pdf",
         plot = plot_sem,
         width = 8.5,
         height = 6,
@@ -113,4 +156,6 @@ if (isTRUE(check_p_values)) {
 }
 
 #  The p-values from t-tests are as follows:
-#+ - P   0.4852286
+#+ - P 0.4852286 (run 1)
+#+ - P 0.1959663 (run 2)
+#+ - P 0.001089535 (run 3)

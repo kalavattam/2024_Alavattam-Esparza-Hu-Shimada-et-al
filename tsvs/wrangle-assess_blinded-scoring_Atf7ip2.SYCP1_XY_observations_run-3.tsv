@@ -1,0 +1,13 @@
+substage	replicate	genotype	class	tally	sample_size	proportion
+P	rep3	WT	1	30	30	100.00%
+P	rep3	WT	0	0	30	0.00%
+P	rep6	WT	1	90	94	95.74%
+P	rep6	WT	0	4	94	4.26%
+P	rep4	WT	1	49	50	98.00%
+P	rep4	WT	0	1	50	2.00%
+P	rep3	KO	1	13	19	68.42%
+P	rep3	KO	0	6	19	31.58%
+P	rep6	KO	1	76	100	76.00%
+P	rep6	KO	0	24	100	24.00%
+P	rep4	KO	1	26	34	76.47%
+P	rep4	KO	0	8	34	23.53%
