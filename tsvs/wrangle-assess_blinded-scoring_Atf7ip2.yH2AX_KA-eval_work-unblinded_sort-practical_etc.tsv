@@ -1,0 +1,713 @@
+name_original	name_blinded	genotype	replicate	eval_stage_0	eval_stage_1	eval_stage_2	eval_stage_3	eval_stage_4	eval_stage_5	eval_class	notes
+KO_rep2-20231129-mibp.png	File_0bc3c620_e20f_48a4_adf2_22bd74409361	KO	rep2	DE	D	D	D	D	D	2	
+KO_rep2_tec2-20231201-ljgo.png	File_10093818_f2b0_4a99_a8f2_61086dcab5b0	KO	rep2	DE	D	D	D	D	D	3	
+KO_rep2_tec2-20231201-liof.png	File_5c95456c_c1de_4e6a_9384_34dd48252139	KO	rep2	DE	D	D	D	D	D	3	
+KO_rep2_tec2-20231201-lcza.png	File_40b8ca25_313b_4413_a22b_1bb8be8001f6	KO	rep2	DL	D	D	D	D	D	2	Dying cell
+KO_rep2_tec2-20231201-lcti.png	File_8beb7755_ce04_48f8_8a16_c4897c4583b6	KO	rep2	DL	D	D	D	D	D	2	Appears to be a dying cell—could be a severely disrupted pachytene cell
+KO_rep2-20231129-mhkz.png	File_0502a9af_1eaf_4061_9c5a_ef64329cd478	KO	rep2	DL	D	D	D	D	D	3	
+KO_rep2_tec2-20231201-lith.png	File_1886ffb4_e5c5_4345_bee4_a89ffc16bd02	KO	rep2	DL	D	D	D	D	D	3	
+KO_rep2_tec2-20231201-lijv.png	File_8a2d4998_3e44_42b2_aaa2_039cfcdf424d	KO	rep2	DL	D	D	D	D	D	3	
+KO_rep2_tec2-20231201-limv.png	File_804d2320_5428_46b7_8e37_a49d1d50291c	KO	rep2	DLE	D	D	D	D	D	3	
+KO_rep2_tec2-20231201-lime.png	File_fcc49057_1010_447f_9db3_c50b0293d947	KO	rep2	DLE	D	D	D	D	D	3	
+KO_rep2_tec2-20231201-lcvn.png	File_c13eac5e_72c6_4ff0_b72d_545c90a5a4d4	KO	rep2	DLL	D	D	D	D	D	3	Ectopic γH2AX is from scratches on the slide; stage prior to pro-metaphase
+KO_rep2_tec2-20231201-lczx.png	File_c924dca4_ce80_4603_8414_2be72cb99dd5	KO	rep2	DLL	D	D	D	D	D	3	Ectopic γH2AX is from scratches on the slide; stage prior to pro-metaphase
+KO_rep2_tec2-20231201-lbrl.png	File_1b1d3945_a657_4d0c_83d8_30e3ded842cc	KO	rep2	PE	PEM	PEM	PEM	PEM	PEM	2	Late PE? Many slide/staining artifacts
+KO_rep2-20231129-miir.png	File_206c322d_8fe4_45ec_a3c2_41e5cb51e82c	KO	rep2	PE	PEM	PEM	PEM	PEM	PEM	2	
+KO_rep2-20231129-mewg.png	File_2b48316c_3b34_4eef_8046_782bfb685a01	KO	rep2	PE	PEM	PEM	PEM	PEM	PEM	2	
+KO_rep2-20231129-meua.png	File_2ea7f826_439c_4267_a626_cf8b350f8a58	KO	rep2	PE	PEM	PEM	PEM	PEM	PEM	2	Very late 2?
+KO_rep2-20231129-mfma.png	File_2f119acb_4863_410b_ac0c_55e1a8e4944f	KO	rep2	PE	ZLL	PEM	PEM	PEM	PEM	2	...or could be PE 2
+KO_rep2-20231129-kzri.png	File_3b2ffe9b_063f_4186_9340_c43a759997ba	KO	rep2	PE	PEM	PEM	PEM	PEM	PEM	2	
+KO_rep2-20231129-mevq.png	File_56acb6c0_a677_43c1_854d_2ed7c7711b56	KO	rep2	PE	PEM	PEM	PEM	PEM	PEM	2	
+KO_rep2-20231129-kztp.png	File_571258f5_dc1f_4031_9297_0e1e47f91d90	KO	rep2	PE	PEM	PEM	PEM	PEM	PEM	2	Light 2
+KO_rep2-20231129-kzuz.png	File_83f1bd06_5e53_4dc9_a6d3_66a1d2d5a210	KO	rep2	PE	PEM	PEM	PEM	PEM	PEM	2	
+KO_rep2-20231129-mijp.png	File_9770f4cf_4a4d_44e4_ba06_43b2d3c3cb63	KO	rep2	PE	PEM	PEM	PEM	PEM	PEM	2	
+KO_rep2-20231129-kxqp.png	File_acd6850c_5f6c_416c_b2d0_8c2b58e31070	KO	rep2	PE	PEM	PEM	PEM	PEM	PEM	2	
+KO_rep2-20231129-mhge.png	File_ccd656ca_7efd_473d_9514_e2f02f48b34d	KO	rep2	PE	PEM	PEM	PEM	PEM	PEM	2	Hard to see autosome and especially the sex chromosomes
+KO_rep2-20231129-meux.png	File_e5707484_9595_4302_a001_ceedd4243764	KO	rep2	PE	PEM	PEM	PEM	PEM	PEM	2	
+KO_rep2-20231129-mgwi.png	File_e6ce3567_d180_4872_a59f_5c0c02963a3a	KO	rep2	PE	PEM	PEM	PEM	PEM	PEM	2	
+KO_rep2-20231129-mhje.png	File_e9b43562_3374_4523_8a3c_0e8e0a7f8d21	KO	rep2	PE	PEM	PEM	PEM	PEM	PEM	2	
+KO_rep2-20231129-mflh.png	File_f40a2e17_384f_4f81_aea5_2a5e750a1fb6	KO	rep2	PE	PEM	PEM	PEM	PEM	PEM	2	
+KO_rep2-20231129-mihr.png	File_f88df264_03d1_4c5b_9a92_e937eb235977	KO	rep2	PE	PEM	PEM	PEM	PEM	PEM	2	
+KO_rep2-20231129-mfjv.png	File_2aaa3011_4d53_480c_ab8c_eeaf74d74fa9	KO	rep2	PEE	PEM	PEM	PEM	ZL	PEM	2	
+KO_rep2-20231129-mfkl.png	File_95ac7cf4_754c_4024_b991_c11ac5fe6620	KO	rep2	PEE	PEM	PEM	PEM	ZL	PEM	2	
+KO_rep2-20231129-mifz.png	File_9e657851_fb1a_4912_920a_62b346ea2e4b	KO	rep2	PEE	PEM	PEM	PEM	ZL	PEM	2	
+KO_rep2-20231129-laka.png	File_324e61f7_b1dc_4207_a126_bb104d3f0b59	KO	rep2	PEL	PEM	PEM	PEM	PEM	PEM	2	Light 2
+KO_rep2-20231129-miyi.png	File_4e5e5e0d_9eaa_4618_83c3_1950f34eed71	KO	rep2	PEL	PEM	PEM	PEM	PEM	PEM	2	Or PME 2
+KO_rep2-20231129-kzsq.png	File_7026f54c_a03d_4dae_b2bd_6c160b3ab7ac	KO	rep2	PEL	PEM	PEM	PEM	PEM	PEM	2	PME?
+KO_rep2-20231129-miqn.png	File_82b25445_5c60_45de_a37b_852360a41129	KO	rep2	PEL	PEM	PEM	PEM	PEM	PEM	2	
+KO_rep2-20231129-mipg.png	File_8472d2ee_910b_479e_9163_46db5d2dc0ae	KO	rep2	PEL	PEM	PEM	PEM	PEM	PEM	2	Sick cell?
+KO_rep2-20231129-mewz.png	File_af905e81_2d2f_4fed_960a_aad197226027	KO	rep2	PEL	PEM	PEM	PEM	PEM	PEM	2	Or PME—mutant?
+KO_rep2-20231129-mhuh.png	File_5d54d042_e2f4_4bef_bbb2_f44fe64d7f77	KO	rep2	PL	PL	PL	PL	PL	PL	3	
+KO_rep2-20231129-kxuq.png	File_f9f90dbc_9a21_4cd0_a5c9_a776328cf206	KO	rep2	PLE	PL	PL	PEM	PEM	PEM	2	
+KO_rep2-20231129-mhqp.png	File_ce6ab746_13ae_4fde_9def_ca1d57eef769	KO	rep2	PM	PEM	PEM	PEM	PEM	PEM	1	Dying cell—or perhaps something artifactual? Slide appears to be "dried out"
+KO_rep2_tec2-20231201-lcai.png	File_43d2833c_4ddb_4d79_9a76_043a5f414755	KO	rep2	PM	PEM	PEM	PEM	PEM	PEM	2	Dying cell
+KO_rep2-20231129-miol.png	File_5e839309_afee_4370_a345_80bb82eec567	KO	rep2	PM	PEM	PEM	PEM	PEM	PEM	2	
+KO_rep2-20231129-lahg.png	File_8058382c_dcdb_47b9_94eb_712981fc993b	KO	rep2	PM	PEM	PEM	PEM	PEM	PEM	2	
+KO_rep2-20231129-kzqh.png	File_ff3295f1_bf04_416f_894e_bbdc4530979b	KO	rep2	PM	PEM	PEM	PEM	PEM	PEM	2	
+KO_rep2-20231129-mfet.png	File_4972eeab_9d10_4169_9f0b_24e35cbf6837	KO	rep2	PM	PEM	PEM	PEM	PEM	PEM	3	
+KO_rep2-20231129-mfdz.png	File_9527c208_5dab_4b0e_aaed_338a770e94aa	KO	rep2	PM	PEM	PEM	PEM	PEM	PEM	3	
+KO_rep2-20231129-kzxi.png	File_9e9ec04a_965a_4f90_b026_321a3598b029	KO	rep2	PM	PEM	PEM	PEM	PEM	PEM	3	
+KO_rep2_tec2-20231201-lbqr.png	File_cf859e84_d65f_4816_ba95_42dcda086498	KO	rep2	PM	PEM	PEM	PEM	PEM	PEM	3	
+KO_rep2-20231129-lakr.png	File_f1f97423_7ab4_4d91_9c80_2b2fb1c76a2e	KO	rep2	PM	PEM	PEM	PEM	PEM	PEM	3	
+KO_rep2-20231129-mixu.png	File_3ea2029d_e43f_4289_a5b7_e5afcd59c7c1	KO	rep2	PME	PEM	PEM	PEM	PEM	PEM	2	
+KO_rep2-20231129-kxzh.png	File_2e81eccc_4768_4c64_a42b_23b476a3cc89	KO	rep2	ZE	ZEM	ZEM	ZEM	ZEM	ZEM	1	Also, this could be late leptotene
+KO_rep2_tec2-20231201-laxj.png	File_3904416a_9664_4e7e_a884_02cca553da47	KO	rep2	ZE	ZEM	ZEM	ZEM	ZEM	ZEM	1	
+KO_rep2_tec2-20231201-lbag.png	File_e5ee3b18_ba53_4bc5_9a82_b8f398def048	KO	rep2	ZE	ZEM	ZEM	ZEM	ZEM	ZEM	1	Or LL?
+KO_rep2_tec2-20231201-lirt.png	File_1d08d33b_85a7_40fe_880f_85abd3f543d5	KO	rep2	ZEL	ZEM	ZEM	ZEM	ZEM	ZEM	1	
+KO_rep2_tec2-20231201-layj.png	File_24cdd113_1229_4c69_818c_9c7b11498f1c	KO	rep2	ZL	ZL	ZL	ZL	ZL	ZL	1	
+KO_rep2_tec2-20231201-lizd.png	File_2b676938_523a_42d7_bece_ec122a32fc47	KO	rep2	ZL	ZL	ZL	ZL	ZL	ZL	1	
+KO_rep2-20231129-mivs.png	File_3d0731b4_eb8b_4d82_a268_1c197b0e7f50	KO	rep2	ZL	ZL	ZL	ZL	ZL	ZL	1	
+KO_rep2-20231129-milq.png	File_ab8b9657_de2f_444a_935a_6f51c440975a	KO	rep2	ZL	ZL	ZL	ZL	ZL	ZL	1	
+KO_rep2-20231129-miva.png	File_dcea880a_96fb_4eb0_b277_8718ab9a0c0e	KO	rep2	ZL	ZL	ZL	ZL	ZL	ZL	1	
+KO_rep2-20231129-mhsj.png	File_07e00f02_6ef1_4b19_b1fc_6bc267d21536	KO	rep2	ZL	ZL	ZL	ZL	ZL	ZL	2	
+KO_rep2-20231129-mfqe.png	File_2071a7d1_190a_46f2_ae49_a3217996965d	KO	rep2	ZL	ZL	ZL	ZL	ZL	ZL	2	
+KO_rep2-20231129-mhic.png	File_48dffe70_234e_4845_b63a_2c7edd4dbfbb	KO	rep2	ZL	ZL	ZL	ZL	ZL	ZL	2	
+KO_rep2-20231129-mhfp.png	File_83e4dd89_fcfc_4cc7_98dc_147f92ae7d7e	KO	rep2	ZL	ZL	ZL	ZL	ZL	ZL	2	Could be PE 2
+KO_rep2_tec2-20231201-lapw.png	File_86c95c59_a0bc_4508_a866_9ea0fc5cccc8	KO	rep2	ZL	ZL	ZL	ZL	ZL	ZL	2	Seems to be a sick or dying cell
+KO_rep2-20231129-mftd.png	File_91efacc4_c153_4640_b92f_6f32b72fbddc	KO	rep2	ZL	ZL	ZL	ZL	ZL	ZL	2	
+KO_rep2_tec2-20231201-laja.png	File_930ba6b9_d926_47d0_96f7_457d32990cfe	KO	rep2	ZL	ZL	ZL	ZL	ZL	ZL	2	
+KO_rep2_tec2-20231201-liyl.png	File_e562072e_5936_46e7_af5f_0e190e7eb4c4	KO	rep2	ZL	ZL	ZL	ZL	ZL	ZL	2	Strong 2
+KO_rep2_tec2-20231201-ljjb.png	File_eeb29949_9905_447d_8bf9_c079e928073b	KO	rep2	ZL	ZL	ZL	ZL	ZL	ZL	2	
+KO_rep2-20231129-mfpk.png	File_b5a0aa37_9aca_4c37_a472_3e42700de67e	KO	rep2	ZLL	ZL	ZL	ZL	ZL	PE	2	
+KO_rep2-20231129-migx.png	File_f83fedc3_ad4d_48d9_9db4_f994c8887a5e	KO	rep2	ZLL	ZL	ZL	ZL	ZL	PE	2	Transitioning into PE
+KO_rep2_tec2-20231201-liwo.png	File_066383bd_462c_4c27_9b82_11abb3ab4017	KO	rep2	ZM	ZEM	ZEM	ZEM	ZEM	ZEM	1	
+KO_rep2_tec2-20231201-liqy.png	File_50b5b1ed_9aa7_4a17_ba59_e7cfb011ba44	KO	rep2	ZM	ZEM	ZEM	ZEM	ZEM	ZEM	1	
+KO_rep2_tec2-20231201-lixh.png	File_14c929f6_f18d_48da_b34d_2f9e60772221	KO	rep2	ZM	ZEM	ZEM	ZEM	ZEM	ZEM	2	Transition from 1 to 2—could be a lighter 1
+KO_rep3_tec2-20231201-lghn.png	File_0a19a18c_f39e_4714_9af8_746071a5774e	KO	rep3	DE	D	D	D	D	D	2	
+KO_rep3-20231129-nxvb.png	File_450b3dbd_b42e_48e6_a430_9dbcaa8e6f1f	KO	rep3	DE	D	D	D	D	D	2	Light 2—interesting
+KO_rep3-20231129-nxul.png	File_576fef49_ca56_4560_b79f_4a510e8a7e3e	KO	rep3	DEE	D	D	D	D	D	3	
+KO_rep3-20231129-nspa.png	File_aacd304d_1879_4f2e_ab19_0afb4ab2e830	KO	rep3	DEE	D	D	D	D	D	3	
+KO_rep3-20231129-nspv.png	File_f44bc047_34c1_4d7f_bbe4_ead6b646218b	KO	rep3	DEE	D	D	D	D	D	3	One "M focus"
+KO_rep3_tec2-20231201-lgsb.png	File_f137c62d_ae45_4edb_85c4_5be9bd5bd4a7	KO	rep3	DL	D	D	D	D	D	2	Dying cell? Pachytene asynapsis?
+KO_rep3_tec2-20231201-lgqa.png	File_970a902c_a6be_4b99_ad3c_60212478862f	KO	rep3	Exclude	#N/A	#N/A	#N/A	#N/A	#N/A	#N/A	Many artifacts from slide preparation
+KO_rep3-20231129-nvdv.png	File_00e63ca8_7d93_4ce0_89de_944617bc3e71	KO	rep3	PE	PEM	PEM	PEM	PEM	PEM	2	
+KO_rep3-20231129-nwzv.png	File_05a54b03_cbe3_4553_ae21_36aab122a402	KO	rep3	PE	PEM	PEM	PEM	PEM	PEM	2	Or PME 2; 2 is light
+KO_rep3-20231129-nuza.png	File_05d89110_5513_42b5_b833_ab7c88aa5750	KO	rep3	PE	PEM	PEM	PEM	PEM	PEM	2	Light 2
+KO_rep3-20231129-ntnb.png	File_0a455e5a_3757_42b9_a25e_bf120f988c3a	KO	rep3	PE	PEM	PEM	PEM	PEM	PEM	2	
+KO_rep3-20231129-nwfp.png	File_10cf0b46_97e3_48ce_90a9_a08e66a9e5d9	KO	rep3	PE	PEM	PEM	PEM	PEM	PEM	2	
+KO_rep3-20231129-nwze.png	File_13ee303c_0fe3_41b2_9117_76a2053c78b7	KO	rep3	PE	PEM	PEM	PEM	PEM	PEM	2	
+KO_rep3-20231129-nwtn.png	File_189f79f3_d3df_4a7e_9be7_d28b435e9e67	KO	rep3	PE	PEM	PEM	PEM	PEM	PEM	2	Hard to see XY
+KO_rep3-20231129-nwha.png	File_2abe8218_c851_4101_ab4b_d86c7e45b30c	KO	rep3	PE	PEM	PEM	PEM	PEM	PEM	2	
+KO_rep3-20231129-nrua.png	File_2d9cec15_b59c_41f5_9425_33bfb622c037	KO	rep3	PE	PEM	PEM	PEM	PEM	PEM	2	
+KO_rep3-20231129-nryk.png	File_329e424b_f5f2_4a74_8739_67870c9bb60f	KO	rep3	PE	PEM	PEM	PEM	PEM	PEM	2	
+KO_rep3-20231129-nwwd.png	File_3912df04_ba99_41cf_b947_b066ec84bccd	KO	rep3	PE	PEM	PEM	PEM	PEM	PEM	2	
+KO_rep3-20231129-nujs.png	File_5fc1f6ba_377c_41f0_b155_0cb187ded964	KO	rep3	PE	PEM	PEM	PEM	PEM	PEM	2	
+KO_rep3-20231129-nukj.png	File_732f070f_76e7_4c4e_9df4_8e63d3ad134a	KO	rep3	PE	PEM	PEM	PEM	PEM	PEM	2	
+KO_rep3-20231129-nvdf.png	File_7935e132_9701_417a_9289_de18e9f74467	KO	rep3	PE	PEM	PEM	PEM	PEM	PEM	2	
+KO_rep3-20231129-nrvk.png	File_7adefe52_aecf_47e6_bd1a_6f2f0e4eec68	KO	rep3	PE	PEM	PEM	PEM	PEM	PEM	2	
+KO_rep3-20231129-nxoc.png	File_7df0bbc6_65eb_44e9_ba5a_aabd5581fbff	KO	rep3	PE	PEM	PEM	PEM	PEM	PEM	2	
+KO_rep3-20231129-nwpn.png	File_7febcef7_4fe5_4c73_8039_adcca8c60816	KO	rep3	PE	PEM	PEM	PEM	PEM	PEM	2	
+KO_rep3-20231129-nvtb.png	File_813c09e9_8287_4d8d_9234_3f69a749605d	KO	rep3	PE	PEM	PEM	PEM	PEM	PEM	2	
+KO_rep3-20231129-nxav.png	File_868346aa_b325_40a9_b38c_e70f3d6d94b5	KO	rep3	PE	PEM	PEM	PEM	PEM	PEM	2	Unable to clearly see XY—could it be PM?
+KO_rep3-20231129-nsbc.png	File_9f1c2a3b_1611_4d10_99e2_7eefdc51ff1e	KO	rep3	PE	PEM	PEM	PEM	PEM	PEM	2	
+KO_rep3-20231129-nveo.png	File_c0feb2d3_5dea_49a7_8ff2_ee151731a7ea	KO	rep3	PE	PEM	PEM	PEM	PEM	PEM	2	Hard to see XY
+KO_rep3-20231129-nudm.png	File_c1b2a839_263c_4d2d_a9de_7a349fb113a6	KO	rep3	PE	PEM	PEM	PEM	PEM	PEM	2	Hard to see XY—mutant?
+KO_rep3-20231129-nugb.png	File_1752d4c6_28d0_400b_8c8f_2cc4636eefc7	KO	rep3	PEL	PEM	PEM	PEM	PEM	PEM	2	Light 2
+KO_rep3-20231129-nuek.png	File_35d843e1_1ba8_4019_9979_44cdbf97ce9e	KO	rep3	PEL	PEM	PEM	PEM	PEM	PEM	2	Y synapsed near entirely to X
+KO_rep3-20231129-nunn.png	File_60d03441_e191_4d45_a213_a396c8ed5c36	KO	rep3	PEL	PEM	PEM	PEM	PEM	PEM	2	Light 2
+KO_rep3-20231129-nrwa.png	File_8706680a_56df_4fa5_bcb9_039a56336a28	KO	rep3	PEL	PEM	PEM	PEM	PEM	PEM	2	Mutant? Self-synapsis
+KO_rep3-20231129-nrup.png	File_94c8c67f_f8b0_42c6_a9e7_0b60eaf43358	KO	rep3	PEL	PEM	PEM	PEM	PEM	PEM	2	Light 2
+KO_rep3-20231129-ntrq.png	File_c9638e7c_351c_45e0_930d_5dd5a8e33236	KO	rep3	PEL	PEM	PEM	PEM	PEM	PEM	2	Mutant? Abnormally large XY self-synapsis
+KO_rep3-20231129-nuha.png	File_d7120a3b_9e9c_48eb_af61_7285de93f22a	KO	rep3	PEL	PEM	PEM	PEM	PEM	PEM	2	
+KO_rep3-20231129-nycm.png	File_c2ede6c8_c893_47ef_b9d2_8002bfa678bb	KO	rep3	PL	PL	PL	PL	PL	PL	2	Abnormally large XY self-synapsis with what appear to be multiple "M foci"; going to classify this as "2"
+KO_rep3-20231129-nxtd.png	File_07c131fd_fcad_4293_ade6_07800b5144ea	KO	rep3	PL	PL	PL	PL	PL	PL	3	
+KO_rep3-20231129-nrpa.png	File_44ae69d4_c9b8_4d8c_87b5_e2a0a9ff23a9	KO	rep3	PL	PL	PL	PL	PL	PL	3	
+KO_rep3-20231129-nsqu.png	File_4c8c7260_597b_4798_9a7a_b67a1a302c53	KO	rep3	PL	PL	PL	PL	PL	PL	3	
+KO_rep3-20231129-nybd.png	File_60746dbb_58e0_4a5c_8889_b0e0ecd1fd2f	KO	rep3	PL	PL	PL	PL	PL	PL	3	
+KO_rep3-20231129-nxkr.png	File_658d889a_4727_4c3b_aa8c_4efc2718a1c7	KO	rep3	PL	PL	PL	PL	PL	PL	3	
+KO_rep3-20231129-nrdh.png	File_95b1ee0a_c976_4234_a4d7_adbc092c15c4	KO	rep3	PL	PL	PL	PL	PL	PL	3	
+KO_rep3-20231129-nuup.png	File_9da5d5a8_2a0e_48e8_ab60_a3c4902cebc3	KO	rep3	PL	PL	PL	PL	PL	PL	3	
+KO_rep3-20231129-nybv.png	File_9dcd50bf_b859_4adc_8630_3a49c7929cbf	KO	rep3	PL	PL	PL	PL	PL	PL	3	
+KO_rep3-20231129-nrfd.png	File_9e5de392_75f5_4ef4_b788_1f8f6b202c6e	KO	rep3	PL	PL	PL	PL	PL	PL	3	
+KO_rep3-20231129-nrrj.png	File_a1d92eb4_aebc_4777_a539_d3e4ef444f18	KO	rep3	PLE	PL	PL	PEM	PEM	PEM	3	Could be PML
+KO_rep3-20231129-nutu.png	File_ab0dee09_ef00_4c97_b329_dae012bdf838	KO	rep3	PL	PL	PL	PL	PL	PL	3	One large "M focus" in the autosomal region
+KO_rep3-20231129-nyfu.png	File_c8bfbba1_bb5c_471e_bd6b_4970af9e1d38	KO	rep3	PL	PL	PL	PL	PL	PL	3	One "M focus"
+KO_rep3-20231129-nygv.png	File_e24f379a_dfac_4473_b04b_9b2dd9ef2bb7	KO	rep3	PL	PL	PL	PL	PL	PL	3	
+KO_rep3-20231129-nvxp.png	File_e4d64350_1b8c_433e_9b87_c1093081332c	KO	rep3	PL	PL	PL	PL	PL	PL	3	Mutant? Abnormally large PAR
+KO_rep3-20231129-nuja.png	File_f0d7dad0_f736_4c4d_8567_e6a9a81318b6	KO	rep3	PLE	PL	PL	PEM	PEM	PEM	3	PM? Hard to see XY and some light focus issues
+KO_rep3-20231129-ntvu.png	File_30875e54_11a7_456d_8c44_7528c7573128	KO	rep3	PLE	PL	PL	PEM	PEM	PEM	3	
+KO_rep3-20231129-nuvi.png	File_333f4a45_68c8_49ee_a01d_bda5c9443026	KO	rep3	PLE	PL	PL	PEM	PEM	PEM	3	Could be PML
+KO_rep3-20231129-nxfa.png	File_673bbc18_27f2_411a_a713_4790863cfc93	KO	rep3	PLE	PL	PL	PEM	PEM	PEM	3	
+KO_rep3-20231129-nrlh.png	File_96d6bc6d_bce4_47ff_83c9_56e7fcd57161	KO	rep3	PLE	PL	PL	PEM	PEM	PEM	3	
+KO_rep3-20231129-nrok.png	File_abb5e724_4033_4914_9190_a07937c4ad51	KO	rep3	PLE	PL	PL	PEM	PEM	PEM	3	One large "M focus" in the autosomal region
+KO_rep3-20231129-ntba.png	File_c3109e00_0b83_4afa_88fe_8e7ec7a613af	KO	rep3	PLE	PL	PL	PEM	PEM	PEM	3	Mutant? Abnormally large XY self-synapsis
+KO_rep3-20231129-nref.png	File_c9c0fd0b_cf8a_4e00_a359_7cb057093204	KO	rep3	PLE	PL	PL	PEM	PEM	PEM	3	
+KO_rep3-20231129-nxtv.png	File_caf636c5_0d99_47cb_a2fe_f1371b059450	KO	rep3	PLE	PL	PL	PEM	PEM	PEM	3	One "M focus"
+KO_rep3-20231129-nxvr.png	File_d9d27023_c785_4a79_95a9_5eee163c4aaf	KO	rep3	PLE	PL	PL	PEM	PEM	PEM	3	
+KO_rep3-20231129-nupg.png	File_df05c46a_be0d_48a1_b646_6c17241daa4a	KO	rep3	PLE	PL	PL	PEM	PEM	PEM	3	Mutant? Abnormally large PAR—could be PML?
+KO_rep3-20231129-nxsh.png	File_3f5ec1b1_db86_44a2_8e2b_0efe70254c43	KO	rep3	PM	PEM	PEM	PEM	PEM	PEM	2	2 verging on 3
+KO_rep3-20231129-nvcn.png	File_40716821_9748_4154_a3ba_b4a597ab2b3f	KO	rep3	PM	PEM	PEM	PEM	PEM	PEM	2	Can't really see XY in the XY body
+KO_rep3-20231129-nwsd.png	File_4ab313a4_42d0_4df4_a490_ff19bd2c4219	KO	rep3	PM	PEM	PEM	PEM	PEM	PEM	2	
+KO_rep3-20231129-nxiz.png	File_4cdffb98_8fd6_4208_974e_c2871233f3f1	KO	rep3	PM	PEM	PEM	PEM	PEM	PEM	2	It's a lighter 2
+KO_rep3-20231129-nvbx.png	File_5744ede5_45da_4a1b_8d8c_e876c14ce3d1	KO	rep3	PM	PEM	PEM	PEM	PEM	PEM	2	
+KO_rep3-20231129-ntok.png	File_5b4bd06d_8539_408e_bb0f_6422aae32834	KO	rep3	PM	PEM	PEM	PEM	PEM	PEM	2	
+KO_rep3-20231129-nwxz.png	File_5eb109c3_5c8b_4b60_a44b_fa99ffe2c6f1	KO	rep3	PM	PEM	PEM	PEM	PEM	PEM	2	
+KO_rep3-20231129-nwbi.png	File_629f80df_0564_4943_bb8c_60111c7164ff	KO	rep3	ZLL	ZL	ZL	ZL	ZL	PE	2	Pachytene asynapsis or zygotene? Could be PE with ectopic asynapsis?
+KO_rep3-20231129-ntdr.png	File_89079f29_4ebb_4664_9c3a_47654fbf50d1	KO	rep3	PM	PEM	PEM	PEM	PEM	PEM	2	
+KO_rep3-20231129-ntnu.png	File_8bc623a7_1d09_4bd5_b7c6_9be91690e964	KO	rep3	PM	PEM	PEM	PEM	PEM	PEM	2	The 2 is light
+KO_rep3-20231129-nwqi.png	File_a02b5ff0_0675_4f56_9091_a50c4da2a50b	KO	rep3	PM	PEM	PEM	PEM	PEM	PEM	2	
+KO_rep3-20231129-nxnj.png	File_ae73785b_2d37_4ab4_b57c_6f13f7a90618	KO	rep3	ZLL	ZL	ZL	ZL	ZL	PE	2	Dying cell? Could be bona fide pachytene asynapsis—but it appears it could be in late zygonema
+KO_rep3-20231129-nxzk.png	File_b68dfde2_cf93_41f8_a883_62a09b9a5d1b	KO	rep3	PM	PEM	PEM	PEM	PEM	PEM	2	Mutant? Abnormally large XY self-synapsis; a light 2 originating from XY
+KO_rep3-20231129-nvgv.png	File_bd4dddb1_2895_4f7e_b0b1_942112614ea2	KO	rep3	PM	PEM	PEM	PEM	PEM	PEM	2	Mutant, dying cell?
+KO_rep3-20231129-ntlr.png	File_c57a94b4_a2c6_4421_ab58_23dd40b41329	KO	rep3	PM	PEM	PEM	PEM	PEM	PEM	2	Mutant? Very strange self-synapsed XY and smeared XY body
+KO_rep3-20231129-nxef.png	File_c76385d7_be8e_4526_aca3_b78e055b7b6d	KO	rep3	PM	PEM	PEM	PEM	PEM	PEM	2	Can't really see XY
+KO_rep3-20231129-ntft.png	File_c8887bbf_5c3e_46ef_8dc8_7b363c58e7d4	KO	rep3	PM	PEM	PEM	PEM	PEM	PEM	2	Mutant? Abnormally large XY self-synapsis
+KO_rep3-20231129-nwgh.png	File_d05e6642_b0a5_4899_9e46_ee1d0f6596ff	KO	rep3	PM	PEM	PEM	PEM	PEM	PEM	2	Mutant? Abnormal XY self-synapsis
+KO_rep3-20231129-ntml.png	File_e02cb265_86c9_4432_af16_055b7f269bb0	KO	rep3	PM	PEM	PEM	PEM	PEM	PEM	2	Mutant?
+KO_rep3-20231129-nrpp.png	File_e86c0dd4_eaf9_4d75_908c_f473942eace7	KO	rep3	PM	PEM	PEM	PEM	PEM	PEM	2	Mutant?
+KO_rep3-20231129-nvwg.png	File_00b27291_5d42_49a3_a947_681507a7bab7	KO	rep3	PM	PEM	PEM	PEM	PEM	PEM	3	
+KO_rep3-20231129-nxyp.png	File_0994918c_f190_43ef_83b3_8bfae0657de1	KO	rep3	PM	PEM	PEM	PEM	PEM	PEM	3	
+KO_rep3-20231129-ntzw.png	File_0cfdc44d_3a4f_4ce5_b928_59684c339763	KO	rep3	PM	PEM	PEM	PEM	PEM	PEM	3	...or late 2
+KO_rep3-20231129-nvwy.png	File_332e83f9_1d6d_4029_b5bb_e93918f72f3a	KO	rep3	PM	PEM	PEM	PEM	PEM	PEM	3	
+KO_rep3-20231129-nvlr.png	File_3857199b_4562_49dc_88ad_cc4d8de8f6a6	KO	rep3	PM	PEM	PEM	PEM	PEM	PEM	3	
+KO_rep3-20231129-nxxw.png	File_3d0f3482_36ea_4a98_8a62_799d2875d8c1	KO	rep3	PM	PEM	PEM	PEM	PEM	PEM	3	
+KO_rep3-20231129-numt.png	File_4490bb70_0f92_452a_8d14_281485b852f3	KO	rep3	PM	PEM	PEM	PEM	PEM	PEM	3	XY is partially cropped out—hard to tell; could be PL
+KO_rep3-20231129-nuwv.png	File_44e531f8_f4ce_49b0_889a_073d614d66a9	KO	rep3	PM	PEM	PEM	PEM	PEM	PEM	3	
+KO_rep3-20231129-nsvu.png	File_49df1997_82ff_45fe_bc8f_b80fbfa36bc3	KO	rep3	PM	PEM	PEM	PEM	PEM	PEM	3	
+KO_rep3-20231129-nsye.png	File_586ce1e4_67aa_4e5f_9ec1_16f9e3902d0b	KO	rep3	PM	PEM	PEM	PEM	PEM	PEM	3	
+KO_rep3-20231129-nrns.png	File_5dd4287e_9881_4ff1_8412_029b6886fa46	KO	rep3	PM	PEM	PEM	PEM	PEM	PEM	3	
+KO_rep3-20231129-nwdj.png	File_71da42be_5ec1_4f65_9653_033d041753c2	KO	rep3	PM	PEM	PEM	PEM	PEM	PEM	3	
+KO_rep3-20231129-nuqn.png	File_74ceed4a_6fb1_4f8d_acc5_cc26c05c22b7	KO	rep3	PM	PEM	PEM	PEM	PEM	PEM	3	
+KO_rep3-20231129-nsxn.png	File_79e5fd79_a6bc_41b2_9ac2_a4ec3033b2bd	KO	rep3	PM	PEM	PEM	PEM	PEM	PEM	3	
+KO_rep3-20231129-nxhl.png	File_7a13b535_b3eb_4c5f_befa_d849a1af84e5	KO	rep3	PM	PEM	PEM	PEM	PEM	PEM	3	
+KO_rep3-20231129-nsvg.png	File_81308c9a_1603_4267_a641_27d07c60115d	KO	rep3	PM	PEM	PEM	PEM	PEM	PEM	3	
+KO_rep3-20231129-nvvp.png	File_8c2de316_3b0a_4773_8550_81415d93b609	KO	rep3	PM	PEM	PEM	PEM	PEM	PEM	3	
+KO_rep3-20231129-nvyl.png	File_933d3bc6_5867_49f1_95eb_a90544a32ad2	KO	rep3	PM	PEM	PEM	PEM	PEM	PEM	3	
+KO_rep3-20231129-nuwf.png	File_a2f0e4c5_38e6_4f7b_a410_9a6a0869e2fb	KO	rep3	PM	PEM	PEM	PEM	PEM	PEM	3	
+KO_rep3-20231129-nsus.png	File_be4f280d_622b_42b6_ab8b_17cad0366553	KO	rep3	PM	PEM	PEM	PEM	PEM	PEM	3	"M focus"?
+KO_rep3-20231129-nwrf.png	File_bf237568_9931_40cc_929e_e71ffb688c76	KO	rep3	PM	PEM	PEM	PEM	PEM	PEM	3	Hard to see XY
+KO_rep3-20231129-nstj.png	File_ca526e5d_f804_49bf_be99_867195e4ed4b	KO	rep3	PM	PEM	PEM	PEM	PEM	PEM	3	Can't really see XY
+KO_rep3-20231129-ntvd.png	File_da40d1fb_99e8_49df_917e_e83222bf7a97	KO	rep3	PM	PEM	PEM	PEM	PEM	PEM	3	Maybe one or two small "M focus-like" accumulations—calling this "3"
+KO_rep3-20231129-nswq.png	File_e0daf42d_ae01_4f5c_86ad_b2481414d6bb	KO	rep3	PM	PEM	PEM	PEM	PEM	PEM	3	Hard to see XY
+KO_rep3-20231129-nupy.png	File_e41a032b_07df_45a4_bbb8_a2a506b7c456	KO	rep3	PM	PEM	PEM	PEM	PEM	PEM	3	
+KO_rep3-20231129-ntuf.png	File_ed9645f3_5dac_49ce_b288_57f074f6b8dc	KO	rep3	PM	PEM	PEM	PEM	PEM	PEM	3	
+KO_rep3-20231129-nvfb.png	File_053f99f5_300a_4d42_843e_05df3124e466	KO	rep3	PME	PEM	PEM	PEM	PEM	PEM	2	
+KO_rep3-20231129-nurh.png	File_160bf752_36f9_4eec_bdbc_7d19e1f0ff0c	KO	rep3	PME	PEM	PEM	PEM	PEM	PEM	2	Light 2
+KO_rep3-20231129-nwsv.png	File_37b1f01b_521d_4fe4_adb3_07ba5d11f91b	KO	rep3	PME	PEM	PEM	PEM	PEM	PEM	2	
+KO_rep3-20231129-nstz.png	File_3d2a30b5_cc59_4c95_938c_03fed881e6a9	KO	rep3	PME	PEM	PEM	PEM	PEM	PEM	2	
+KO_rep3-20231129-nrmy.png	File_4fec170b_59a1_47bb_8b03_563c221c90f7	KO	rep3	PME	PEM	PEM	PEM	PEM	PEM	2	
+KO_rep3-20231129-ntfd.png	File_5c34548b_55d4_4e67_b6e9_80cfff7a06cc	KO	rep3	PME	PEM	PEM	PEM	PEM	PEM	2	
+KO_rep3-20231129-nvjt.png	File_41920b77_8b4d_4ae3_b2cd_42e44b94c55d	KO	rep3	PML	PEM	PL	PEM	PEM	PEM	3	
+KO_rep3-20231129-nyfe.png	File_427157ff_2cce_49fd_bd67_00c801380fc3	KO	rep3	PML	PEM	PL	PEM	PEM	PEM	3	
+KO_rep3-20231129-nvuw.png	File_57c2d3a4_a389_4981_9338_836ff5a2002b	KO	rep3	PML	PEM	PL	PEM	PEM	PEM	3	Or PEL
+KO_rep3-20231129-nyeo.png	File_64173ef2_6558_4eb5_8b33_40555bb24453	KO	rep3	PML	PEM	PL	PEM	PEM	PEM	3	PLE?
+KO_rep3-20231129-nvok.png	File_70ee5cba_5cef_4bf7_be5e_b768c362ae95	KO	rep3	PML	PEM	PL	PEM	PEM	PEM	3	
+KO_rep3-20231129-nuap.png	File_8171654f_70b7_47d5_bbb4_153d71e10145	KO	rep3	PML	PEM	PL	PEM	PEM	PEM	3	
+KO_rep3-20231129-nwlk.png	File_884834c0_4b3c_4b6b_ba9e_40f2592fdd6d	KO	rep3	PML	PEM	PL	PEM	PEM	PEM	3	Nice pic
+KO_rep3-20231129-nxfx.png	File_943abc4e_1e7a_4cea_b3a3_97ff1f88c2d8	KO	rep3	PML	PEM	PL	PEM	PEM	PEM	3	
+KO_rep3-20231129-nrmf.png	File_9d3026df_e6dd_4b7b_889d_ddb92ecb7c3e	KO	rep3	PML	PEM	PL	PEM	PEM	PEM	3	
+KO_rep3-20231129-ntzc.png	File_c4acb60e_588d_4041_91b4_d3b3c196d8c4	KO	rep3	PML	PEM	PL	PEM	PEM	PEM	3	Or PLE?
+KO_rep3-20231129-nrqu.png	File_ce1f4765_8437_4f72_ba70_06602e879903	KO	rep3	PML	PEM	PL	PEM	PEM	PEM	3	Or PLE
+KO_rep3-20231129-nxif.png	File_f7e3a330_8176_490a_981c_ea510d8b2725	KO	rep3	PML	PEM	PL	PEM	PEM	PEM	3	Or PLE? Mutant? Abnormally large PAR
+KO_rep3-20231129-nvpd.png	File_fea3d8c4_87de_4357_9487_b4a06de21c9d	KO	rep3	PML	PEM	PL	PEM	PEM	PEM	3	Nice pic—PLE?
+KO_rep3_tec2-20231201-lgke.png	File_5d6d3f91_dbe8_4ba7_8913_f3b7d20bf214	KO	rep3	ZE	ZEM	ZEM	ZEM	ZEM	ZEM	1	
+KO_rep3-20231129-nslh.png	File_87518b1c_39c1_47b0_9dcf_7e13fe92bd80	KO	rep3	ZE	ZEM	ZEM	ZEM	ZEM	ZEM	1	
+KO_rep3-20231129-nrbf.png	File_1cbceba4_4bf2_4c0c_85d3_5dcbf18d989d	KO	rep3	ZL	ZL	ZL	ZL	ZL	ZL	2	
+KO_rep3-20231129-nthp.png	File_2113e7af_2bc1_4126_a98e_0f8c4d6b192d	KO	rep3	ZL	ZL	ZL	ZL	ZL	ZL	2	
+KO_rep3-20231129-nxpy.png	File_272db2bb_a91b_42cb_84b7_401d81b60f41	KO	rep3	ZL	ZL	ZL	ZL	ZL	ZL	2	
+KO_rep3-20231129-nxor.png	File_35b19f93_726b_47b1_be57_4ba32a2e0131	KO	rep3	ZL	ZL	ZL	ZL	ZL	ZL	2	
+KO_rep3-20231129-nxmn.png	File_5c7dcfbe_e31e_47de_acf6_ffcf49fa55bb	KO	rep3	ZL	ZL	ZL	ZL	ZL	ZL	2	
+KO_rep3-20231129-nram.png	File_6e636f26_14c6_400d_a087_e4706d75e521	KO	rep3	ZL	ZL	ZL	ZL	ZL	ZL	2	Could be PEE 2
+KO_rep3-20231129-nvrf.png	File_a14f9fbd_a6a0_449c_80c5_d3e42778714b	KO	rep3	ZL	ZL	ZL	ZL	ZL	ZL	2	
+KO_rep3_tec2-20231201-lgqr.png	File_aa4a8e13_2019_438f_9369_b8667221fc20	KO	rep3	ZL	ZL	ZL	ZL	ZL	ZL	2	
+KO_rep3-20231129-nsea.png	File_e17dea41_5363_4362_8b31_1f407cbd7ee8	KO	rep3	ZL	ZL	ZL	ZL	ZL	ZL	2	
+KO_rep3-20231129-nxpi.png	File_38e06b9a_9afa_4361_be05_81192394491b	KO	rep3	ZLL	ZL	ZL	ZL	ZL	PE	2	
+KO_rep3-20231129-nqzs.png	File_b2d5c61e_f012_4075_98c1_a38396d569f3	KO	rep3	ZLL	ZL	ZL	ZL	ZL	PE	2	Near the transition to PE
+KO_rep3-20231129-ntxw.png	File_7d3d1ab6_781e_4b57_a475_e56e969041fb	KO	rep3	ZM	ZEM	ZEM	ZEM	ZEM	ZEM	1	Could be ZM with a very early 2
+KO_rep3_tec2-20231201-lgks.png	File_d2650d49_f86a_4e7a_a398_982b19ea2983	KO	rep3	ZM	ZEM	ZEM	ZEM	ZEM	ZEM	1	
+KO_rep3_tec2-20231201-lgri.png	File_35cd4023_cbcd_4898_94a2_081562d726b7	KO	rep3	ZM	ZEM	ZEM	ZEM	ZEM	ZEM	2	
+KO_rep4-20231205-lqos.png	File_e1e0e5ae_dbbc_4ddb_b1eb_0d43ffc73777	KO	rep4	DE	D	D	D	D	D	1	Appears to be a dying cell—this one was kind of a tough call
+KO_rep4-20231205-lrcn.png	File_f4c159c8_a704_46a9_b53c_fbfa30a21f87	KO	rep4	DE	D	D	D	D	D	1	Dying cell, mutant? Pachytene asynapsis?
+KO_rep4-20231205-lwpq.png	File_1e4f95ba_828e_4a2d_9b45_a993732697c0	KO	rep4	DE	D	D	D	D	D	2	
+KO_rep4-20231205-lwlp.png	File_c1d8259d_9228_44db_8d5e_939cb73715b5	KO	rep4	DE	D	D	D	D	D	2	Dying cell? Mutant?
+KO_rep4-20231205-mdzu.png	File_2ab00662_706e_4c86_9a90_1b71ae2813fa	KO	rep4	PE	PEM	PEM	PEM	PEM	PEM	1	...or PM
+KO_rep4-20231205-lwtl.png	File_019f76c9_d7bf_4969_95de_3bc1ff6b898d	KO	rep4	PE	PEM	PEM	PEM	PEM	PEM	2	
+KO_rep4-20231205-lubl.png	File_0f5481bc_e03c_4f95_bf1f_84358f6ced3f	KO	rep4	PE	PEM	PEM	PEM	PEM	PEM	2	Transition from ZL to PE?
+KO_rep4-20231205-ltuk.png	File_1051ad40_2088_4eb1_87bc_d61318369a8e	KO	rep4	PE	PEM	PEM	PEM	PEM	PEM	2	Good pic
+KO_rep4-20231205-lwsc.png	File_14368c1f_e224_4044_a7b3_1693f03e1df4	KO	rep4	PE	PEM	PEM	PEM	PEM	PEM	2	
+KO_rep4-20231205-lujs.png	File_1626683f_e3da_4021_a6bd_7cdc6bf0dbcd	KO	rep4	PE	PEM	PEM	PEM	PEM	PEM	2	
+KO_rep4-20231205-meak.png	File_17b9b1a5_77af_4beb_83cc_412e97497dac	KO	rep4	ZLL	ZL	ZL	ZL	ZL	PE	2	A very heavy 2? A light 1? PEE?
+KO_rep4-20231205-lwao.png	File_2af2ddb4_e904_4283_9abb_6fffd400137c	KO	rep4	PE	PEM	PEM	PEM	PEM	PEM	2	
+KO_rep4-20231205-ltbn.png	File_2db7f29b_8a78_40e8_904a_1482fe09da7b	KO	rep4	ZLL	ZL	ZL	ZL	ZL	PE	2	...or could be PEE 2
+KO_rep4-20231205-lvvh.png	File_3a83d024_cab8_46f0_a897_c4680ac382b6	KO	rep4	PE	PEM	PEM	PEM	PEM	PEM	2	
+KO_rep4-20231205-lwdq.png	File_3d11bdc2_0912_428c_b4ae_43580f083ff0	KO	rep4	PE	PEM	PEM	PEM	PEM	PEM	2	
+KO_rep4-20231205-lzia.png	File_40e6dc19_2da2_4d25_a41a_68ff8801b970	KO	rep4	PE	PEM	PEM	PEM	PEM	PEM	2	
+KO_rep4-20231205-lyyd.png	File_42e1c0a0_c7e0_4d57_960e_e1b48023fca9	KO	rep4	PE	PEM	PEM	PEM	PEM	PEM	2	
+KO_rep4-20231205-lyux.png	File_5c2501cf_804f_4f77_a61c_68af72a3b36c	KO	rep4	PE	PEM	PEM	PEM	PEM	PEM	2	
+KO_rep4-20231205-mdaf.png	File_5fe9adc9_4067_4612_8b01_4a9b76ffa886	KO	rep4	PE	PEM	PEM	PEM	PEM	PEM	2	
+KO_rep4-20231205-ltcb.png	File_602c435e_dcf4_48e0_8b87_699a752037ce	KO	rep4	PE	PEM	PEM	PEM	PEM	PEM	2	Light 2, could be PM
+KO_rep4-20231205-lziq.png	File_619bfeef_b1e6_470f_9750_3317d41e9085	KO	rep4	PE	PEM	PEM	PEM	PEM	PEM	2	
+KO_rep4-20231205-masc.png	File_68fd5d90_08cc_4996_aaf5_35815fb86da4	KO	rep4	PE	PEM	PEM	PEM	PEM	PEM	2	
+KO_rep4-20231205-lzyn.png	File_69387a3c_5e8f_4f03_b207_3a10fa055e2f	KO	rep4	PE	PEM	PEM	PEM	PEM	PEM	2	Light 2
+KO_rep4-20231205-lzzg.png	File_69684e2e_f6a8_4f44_9530_a79428139104	KO	rep4	PE	PEM	PEM	PEM	PEM	PEM	2	Light 2—mutant?
+KO_rep4-20231205-lyui.png	File_719003bc_3a8d_45c1_b05b_686f5b0e271b	KO	rep4	PE	PEM	PEM	PEM	PEM	PEM	2	
+KO_rep4-20231205-luvq.png	File_79cd9bcc_1b2d_4cdd_b11d_000f297371f6	KO	rep4	PE	PEM	PEM	PEM	PEM	PEM	2	
+KO_rep4-20231205-mald.png	File_7a768a41_e078_47f2_a015_73e45c099ba4	KO	rep4	PE	PEM	PEM	PEM	PEM	PEM	2	
+KO_rep4-20231205-luce.png	File_7bea9cda_0de7_4408_bedf_f334aadb60b9	KO	rep4	PE	PEM	PEM	PEM	PEM	PEM	2	
+KO_rep4-20231205-lwiv.png	File_8cf4a002_3aff_47ca_b227_8e322e1b6770	KO	rep4	PE	PEM	PEM	PEM	PEM	PEM	2	
+KO_rep4-20231205-mdgu.png	File_8d9aa18b_30f8_4d1a_98b9_b219dfb00550	KO	rep4	PE	PEM	PEM	PEM	PEM	PEM	2	Could be a weird PM
+KO_rep4-20231205-lvjf.png	File_95f5d4e5_61b0_45f5_bbcf_676a58af4daa	KO	rep4	PE	PEM	PEM	PEM	PEM	PEM	2	
+KO_rep4-20231205-maxa.png	File_96b6e501_3401_4595_bd77_dbc0499e0081	KO	rep4	PE	PEM	PEM	PEM	PEM	PEM	2	Sick or dying cell
+KO_rep4-20231205-mdcp.png	File_9e3520c6_519f_440c_8e30_037a7bccbbc9	KO	rep4	PE	PEM	PEM	PEM	PEM	PEM	2	Could be PM
+KO_rep4-20231205-lwsv.png	File_a22faf3c_b652_4a91_adf7_9c46880c9d58	KO	rep4	PE	PEM	PEM	PEM	PEM	PEM	2	Hard to see autosomes, nearly impossible to see XY—SYCP3 levels too low
+KO_rep4-20231205-mcxi.png	File_a4d42ed7_d650_491e_bda5_05ef1a925fce	KO	rep4	PE	PEM	PEM	PEM	PEM	PEM	2	
+KO_rep4-20231205-mebe.png	File_a6287c66_7aee_432d_b079_9605246752be	KO	rep4	PE	PEM	PEM	PEM	PEM	PEM	2	
+KO_rep4-20231205-lvpq.png	File_aee0d7f9_3fe2_4a64_b53a_9e3199e00b12	KO	rep4	PE	PEM	PEM	PEM	PEM	PEM	2	
+KO_rep4-20231205-mdfo.png	File_b140a6da_758f_4a45_b382_c7b4e7a48b48	KO	rep4	PE	PEM	PEM	PEM	PEM	PEM	2	
+KO_rep4-20231205-ltze.png	File_b8060295_44d7_42eb_b3d3_1e599e4d44bf	KO	rep4	PE	PEM	PEM	PEM	PEM	PEM	2	Hard to see XY
+KO_rep4-20231205-luda.png	File_bfa8082d_0ef9_4591_9a3f_993d1b5070ff	KO	rep4	PE	PEM	PEM	PEM	PEM	PEM	2	Mutant?
+KO_rep4-20231205-luar.png	File_d9833684_1414_478e_b785_ba052c22af11	KO	rep4	PE	PEM	PEM	PEM	PEM	PEM	2	
+KO_rep4-20231205-ltzw.png	File_da440153_e6d6_4641_8c49_9d06e5319563	KO	rep4	PE	PEM	PEM	PEM	PEM	PEM	2	
+KO_rep4-20231205-mazk.png	File_fba2d93d_ec03_432a_961f_3bad8e4f488a	KO	rep4	PE	PEM	PEM	PEM	PEM	PEM	2	
+KO_rep4-20231205-mahg.png	File_3e6a63f6_8a66_48f3_aada_3f5f88fe0ee4	KO	rep4	ZLL	ZL	ZL	ZL	ZL	PE	2	PEE 2
+KO_rep4-20231205-lufq.png	File_a4a1b9a2_5e2e_4db6_af7e_587020dd85f6	KO	rep4	PEE	PEM	PEM	PEM	ZL	PEM	2	
+KO_rep4-20231205-ltqo.png	File_188f2946_d58b_4005_aa73_59f3a500d972	KO	rep4	PEL	PEM	PEM	PEM	PEM	PEM	2	
+KO_rep4-20231205-lvxl.png	File_35d76eae_93e8_41ba_9356_1e7bf75a5fdf	KO	rep4	PEL	PEM	PEM	PEM	PEM	PEM	2	Or PME—probably mutant?
+KO_rep4-20231205-lzsw.png	File_664dd36a_cacf_4f2c_8567_73afea720cdd	KO	rep4	PEL	PEM	PEM	PEM	PEM	PEM	2	
+KO_rep4-20231205-lzxh.png	File_8b407306_4d6f_4b87_abdc_a3782d3516bb	KO	rep4	PEL	PEM	PEM	PEM	PEM	PEM	2	Or PME; the 2 is very light
+KO_rep4-20231205-mdpz.png	File_961aa314_a6d7_4a99_867c_236cf1c6ac70	KO	rep4	PEL	PEM	PEM	PEM	PEM	PEM	2	
+KO_rep4-20231205-lvvy.png	File_99966b9c_57f2_4a9f_9812_0bd58a3768eb	KO	rep4	PEL	PEM	PEM	PEM	PEM	PEM	2	
+KO_rep4-20231205-malv.png	File_9a2899e9_3097_4415_8a9f_fd076e36c9d4	KO	rep4	PEL	PEM	PEM	PEM	PEM	PEM	2	Or PM
+KO_rep4-20231205-mecu.png	File_ba4c80bd_7a9a_46cd_bc3a_85e4e50501fc	KO	rep4	PEL	PEM	PEM	PEM	PEM	PEM	2	Or PME? Mutant?
+KO_rep4-20231205-mdpg.png	File_c50f536e_7f5b_4da2_bd31_eac1d9c240fb	KO	rep4	PEL	PEM	PEM	PEM	PEM	PEM	2	Mutant?
+KO_rep4-20231205-makn.png	File_c64d1469_25c4_4e41_8d97_9b8228934ca1	KO	rep4	PEL	PEM	PEM	PEM	PEM	PEM	2	Mutant?
+KO_rep4-20231205-lsye.png	File_cbdb1aad_a080_472f_93d8_d0efe74958fd	KO	rep4	PEL	PEM	PEM	PEM	PEM	PEM	2	Mutant?
+KO_rep4-20231205-lzjx.png	File_d7582beb_4708_464e_b12f_cf73c069c1c0	KO	rep4	PEL	PEM	PEM	PEM	PEM	PEM	2	PME? Mutant?
+KO_rep4-20231205-lywo.png	File_4e7ec79a_aa0f_440d_af4b_d876fd8f6be7	KO	rep4	PL	PL	PL	PL	PL	PL	2	Or PL 1
+KO_rep4-20231205-lwug.png	File_94c14638_87eb_474e_af21_eb0fab65d641	KO	rep4	PLE	PL	PL	PEM	PEM	PEM	2	Difficult to see XY—but appears to be PL
+KO_rep4-20231205-lzlu.png	File_bea7f5c6_0d1d_4940_92d8_614bc50f55df	KO	rep4	DE	D	D	D	D	D	2	Some bona fide pachytene asynapsis in what appears to be a dying cell? Go with DE for now—mutant?
+KO_rep4-20231205-lxay.png	File_6acf8961_6aef_4d35_81bb_064cce79cec6	KO	rep4	PLE	PL	PL	PEM	PEM	PEM	2	
+KO_rep4-20231205-lvax.png	File_79e18572_2351_492f_a48f_51851c17c732	KO	rep4	PLE	PL	PL	PEM	PEM	PEM	2	
+KO_rep4-20231205-mdqo.png	File_1000e27c_ff9c_4c21_9a6f_e4d60cad64b4	KO	rep4	PLE	PL	PL	PEM	PEM	PEM	3	
+KO_rep4-20231205-ltrb.png	File_02e74767_2955_416d_bfc6_9acf19719693	KO	rep4	PM	PEM	PEM	PEM	PEM	PEM	1	Although one au. exhibits an asynapsis bubble, I think this is pachytene—and not diplotene—asynapsis; this may be a dying cell
+KO_rep4-20231205-lvkt.png	File_2736ab40_8547_4387_9522_165aef0e0b63	KO	rep4	PM	PEM	PEM	PEM	PEM	PEM	1	Dying cell? Many artifacts
+KO_rep4-20231205-luhk.png	File_2c2cea24_3bb9_43ab_b188_3b1635fbc6c5	KO	rep4	PM	PEM	PEM	PEM	PEM	PEM	1	yH2AX signal all throughout the nucleus—dying cell?
+KO_rep4-20231205-lvjz.png	File_4160e5ef_08d3_4828_b1f6_fa098aeddd84	KO	rep4	PM	PEM	PEM	PEM	PEM	PEM	1	Dying cell? Could be an artifact...
+KO_rep4-20231205-mbbq.png	File_1399b631_4f59_4ff7_851f_5dcb18c056d1	KO	rep4	PM	PEM	PEM	PEM	PEM	PEM	2	Circulat synapsis—mutant, right?
+KO_rep4-20231205-lzaf.png	File_213ea3d3_106f_4c5c_b7b6_764149414ed4	KO	rep4	PM	PEM	PEM	PEM	PEM	PEM	2	Dying cell?
+KO_rep4-20231205-lylo.png	File_3810777e_f4a4_4eab_a4ed_351fc607cfb8	KO	rep4	PM	PEM	PEM	PEM	PEM	PEM	2	
+KO_rep4-20231205-mdeb.png	File_390a06b2_c67b_4598_98e2_fad963b385f9	KO	rep4	PM	PEM	PEM	PEM	PEM	PEM	2	PEL?
+KO_rep4-20231205-ltgq.png	File_402e1f38_2dc8_4d45_ad52_a2af1ddb825d	KO	rep4	PM	PEM	PEM	PEM	PEM	PEM	2	Light 2
+KO_rep4-20231205-mdav.png	File_49548a26_fb0b_494e_972f_699fcaa5e5fd	KO	rep4	PM	PEM	PEM	PEM	PEM	PEM	2	Dying cell
+KO_rep4-20231205-mdgd.png	File_64464757_94ab_4b58_84be_0ac63ccea1b9	KO	rep4	PM	PEM	PEM	PEM	PEM	PEM	2	Light 2
+KO_rep4-20231205-lzws.png	File_6693b10f_354f_454f_875a_d9493cc3f9db	KO	rep4	PM	PEM	PEM	PEM	PEM	PEM	2	Mutant? Could be PL
+KO_rep4-20231205-mbjg.png	File_6737485b_5f0c_407a_945f_b3ae7887a985	KO	rep4	PM	PEM	PEM	PEM	PEM	PEM	2	
+KO_rep4-20231205-mboq.png	File_6874af59_0234_4094_91f7_3f92ded760ee	KO	rep4	PM	PEM	PEM	PEM	PEM	PEM	2	Mutant? Could be PM
+KO_rep4-20231205-lste.png	File_6d1b9c30_1dda_4c08_99dc_9a889f87de0d	KO	rep4	PM	PEM	PEM	PEM	PEM	PEM	2	
+KO_rep4-20231205-mdes.png	File_7b3a77ba_327e_4858_81f5_ae9ce7dd1dcf	KO	rep4	PM	PEM	PEM	PEM	PEM	PEM	2	
+KO_rep4-20231205-ltjc.png	File_8208fd90_61e0_43b9_a14e_5e06b39bac38	KO	rep4	PM	PEM	PEM	PEM	PEM	PEM	2	Mutant? Large XY synapsis
+KO_rep4-20231205-lvua.png	File_8697a448_d203_454c_b320_d3936b94b7eb	KO	rep4	PM	PEM	PEM	PEM	PEM	PEM	2	
+KO_rep4-20231205-majr.png	File_9630cb35_a034_4e90_99e8_29dc20ff4fad	KO	rep4	PM	PEM	PEM	PEM	PEM	PEM	2	Sick/dying cell? Can see apparent pachytene synapsis
+KO_rep4-20231205-lzts.png	File_b92b2761_341a_4a05_bb68_27a7ce99ac94	KO	rep4	PM	PEM	PEM	PEM	PEM	PEM	2	Mutant?
+KO_rep4-20231205-lvyf.png	File_b96bfb80_d1db_4fa3_ae2b_b6a56e93e5ed	KO	rep4	PM	PEM	PEM	PEM	PEM	PEM	2	Mutant?
+KO_rep4-20231205-luut.png	File_cd0ee0a2_3c4a_4332_83c8_80eecc69fc04	KO	rep4	PM	PEM	PEM	PEM	PEM	PEM	2	Multiple "M foci," I think—calling this as "2"; good pic—mutant?
+KO_rep4-20231205-ltmu.png	File_d674e336_c6dd_41f9_bb92_55d0ec8ab688	KO	rep4	PM	PEM	PEM	PEM	PEM	PEM	2	Seems to be true pachytene autosomal asynapsis; also, I think it's a mutant nucleus; could be PEL
+KO_rep4-20231205-mckn.png	File_dc225402_127b_46da_b27a_b345181eac44	KO	rep4	PM	PEM	PEM	PEM	PEM	PEM	2	
+KO_rep4-20231205-lrso.png	File_e5aef4df_ddda_4b07_9bfd_0b638cc628ec	KO	rep4	PM	PEM	PEM	PEM	PEM	PEM	2	Mutant?
+KO_rep4-20231205-lwcu.png	File_ecb3f781_4996_42e0_82d4_ab9198f9cd97	KO	rep4	PM	PEM	PEM	PEM	PEM	PEM	2	Strange XY morphology—mutant?
+KO_rep4-20231205-lzxy.png	File_ef82a824_9449_43cf_8277_31b91029d8cc	KO	rep4	PM	PEM	PEM	PEM	PEM	PEM	2	Strange XY morphology—mutant? A light "2"
+KO_rep4-20231205-mbru.png	File_f20b8541_fcd8_4cce_be74_5eabd849a0b9	KO	rep4	PM	PEM	PEM	PEM	PEM	PEM	2	Mutant?
+KO_rep4-20231205-mczr.png	File_f90ae272_2412_4c4b_a41f_5e4582b95dfc	KO	rep4	PM	PEM	PEM	PEM	PEM	PEM	2	
+KO_rep4-20231205-lvfw.png	File_74c447b4_764d_4899_b27a_5df8287e2692	KO	rep4	PM	PEM	PEM	PEM	PEM	PEM	3	Cell in the midst of death; could possibly be PL
+KO_rep4-20231205-lwhs.png	File_ae4f7a95_d118_42c7_a14c_02cabc4465f2	KO	rep4	PM	PEM	PEM	PEM	PEM	PEM	3	
+KO_rep4-20231205-lvwt.png	File_e2d9a726_86b2_4e33_8f5a_655e0496c4de	KO	rep4	PM	PEM	PEM	PEM	PEM	PEM	3	
+KO_rep4-20231205-lwbm.png	File_21cc2cc3_aff6_4bb0_b1c5_67a8ec164542	KO	rep4	PME	PEM	PEM	PEM	PEM	PEM	2	
+KO_rep4-20231205-lwig.png	File_30cfb21a_273c_4f5e_81ca_e4e74c511b63	KO	rep4	PME	PEM	PEM	PEM	PEM	PEM	2	Light 2
+KO_rep4-20231205-lyxj.png	File_50658d7d_8767_4f7f_b20b_363fd4fd0487	KO	rep4	PME	PEM	PEM	PEM	PEM	PEM	2	Mutant?
+KO_rep4-20231205-lzjf.png	File_51557da7_4b06_47f7_95c4_35a1db5fcfac	KO	rep4	PME	PEM	PEM	PEM	PEM	PEM	2	Mutant?
+KO_rep4-20231205-mbwj.png	File_5cf6be22_60e0_462b_b116_550e47f7944e	KO	rep4	PME	PEM	PEM	PEM	PEM	PEM	2	
+KO_rep4-20231205-mddh.png	File_705d23a6_5999_4e4b_9078_bfcfb89e8d33	KO	rep4	PME	PEM	PEM	PEM	PEM	PEM	2	X-Y centrometic circular synapsis
+KO_rep4-20231205-lzrj.png	File_d1fe6327_90a9_4af6_8a26_3423e065f579	KO	rep4	PML	PEM	PL	PEM	PEM	PEM	2	Nice pic—mutant? Strange XY morphology; could be PLE...
+KO_rep4-20231205-lrlf.png	File_edfbbafa_31e0_48ce_92d5_ab9eda0a3d1e	KO	rep4	PML	PEM	PL	PEM	PEM	PEM	2	Multiple "M focus-like" accumulations—calling this as a light "2"; nice pic
+KO_rep4-20231205-lwjm.png	File_a8ac8506_11ad_43e0_9ca2_746b13ff1dd6	KO	rep4	PML	PEM	PL	PEM	PEM	PEM	3	
+KO_rep4-20231205-mcen.png	File_495d51a4_b848_4c6d_974e_a7b5b544ce3e	KO	rep4	ZE	ZEM	ZEM	ZEM	ZEM	ZEM	1	
+KO_rep4-20231205-mcgv.png	File_7884ad1f_c4ba_4cf4_92d5_10692a3a5b55	KO	rep4	ZE	ZEM	ZEM	ZEM	ZEM	ZEM	1	Good pic
+KO_rep4-20231205-maqi.png	File_b1f7b42f_e414_4d51_86cc_7dc67f6268de	KO	rep4	ZE	ZEM	ZEM	ZEM	ZEM	ZEM	1	
+KO_rep4-20231205-lwxj.png	File_908b6b60_05ba_4bfa_bc02_4c9ab18d4c95	KO	rep4	ZL	ZL	ZL	ZL	ZL	ZL	1	
+KO_rep4-20231205-mdor.png	File_ca085374_d3be_4dc6_9f2a_934ef9e29dd7	KO	rep4	ZLL	ZL	ZL	ZL	ZL	PE	2	Immediately prior to PE, apparently—mutant?
+KO_rep4-20231205-mbgi.png	File_fd844e67_ff75_4dc2_ad47_f310f3cdd471	KO	rep4	ZLL	ZL	ZL	ZL	ZL	PE	2	Transitioning into PEE
+KO_rep4-20231205-lznr.png	File_1917db92_a34f_4813_97e6_72901c221637	KO	rep4	ZM	ZEM	ZEM	ZEM	ZEM	ZEM	1	
+KO_rep4-20231205-lswd.png	File_e261f4e7_7f22_49af_bc22_560d9b142ef2	KO	rep4	ZM	ZEM	ZEM	ZEM	ZEM	ZEM	1	
+WT_rep2-20231129-mrox.png	File_916fdc3a_a2c4_4545_9533_7d13b24b9afc	WT	rep2	DE	D	D	D	D	D	1	
+WT_rep2-20231129-mksq.png	File_138708f8_31f8_4ec0_9c1c_e773f2cf0524	WT	rep2	DE	D	D	D	D	D	3	
+WT_rep2-20231129-mnwa.png	File_15333edd_cd6b_44a3_899d_4abb59b6c8db	WT	rep2	DE	D	D	D	D	D	3	
+WT_rep2-20231129-mmxi.png	File_19c9c437_b013_4efe_bc4e_037b9e240a71	WT	rep2	DE	D	D	D	D	D	3	
+WT_rep2-20231129-mntp.png	File_1cefe40c_55be_4235_a6ec_6e8186aa7002	WT	rep2	DE	D	D	D	D	D	3	
+WT_rep2-20231129-mrdi.png	File_200bcfb2_30fc_493f_8cd6_de07c179dbcf	WT	rep2	DE	D	D	D	D	D	3	
+WT_rep2-20231129-mmsg.png	File_24c454a6_c8c4_41cb_b7a5_f88aaa683afe	WT	rep2	DE	D	D	D	D	D	3	
+WT_rep2-20231129-mnci.png	File_2a949ed2_fb4e_4ff7_b39d_d89c7b525143	WT	rep2	DE	D	D	D	D	D	3	
+WT_rep2-20231129-mmmu.png	File_2cd35d9d_5495_46e9_8519_e70faca3e9d7	WT	rep2	DE	D	D	D	D	D	3	
+WT_rep2-20231129-moyf.png	File_3aee340d_fea4_4faa_9c1c_0bffb24bcad9	WT	rep2	DE	D	D	D	D	D	3	
+WT_rep2-20231129-mkqp.png	File_3b7ccd24_c58f_489d_97c3_0567e681b5c4	WT	rep2	DE	D	D	D	D	D	3	
+WT_rep2-20231129-mpjv.png	File_46f0a2dd_b095_4deb_abb1_57551b16a27b	WT	rep2	DE	D	D	D	D	D	3	
+WT_rep2_tec2-20231201-kvjf.png	File_48265a2b_1ea9_49f7_9e29_dae522429f53	WT	rep2	DE	D	D	D	D	D	3	
+WT_rep2-20231129-mmlf.png	File_4a510a32_da14_41df_b912_7b3faaa0a67a	WT	rep2	DE	D	D	D	D	D	3	
+WT_rep2-20231129-mldt.png	File_5379388a_0d46_45a1_ae43_7b641de896b7	WT	rep2	DE	D	D	D	D	D	3	
+WT_rep2-20231129-mmud.png	File_581d1074_12f9_43c2_afc8_4f9a6307f785	WT	rep2	DE	D	D	D	D	D	3	
+WT_rep2-20231129-mlcn.png	File_5d9a0503_d4cd_4e74_aeb6_76e489f335fb	WT	rep2	DE	D	D	D	D	D	3	
+WT_rep2-20231129-mrna.png	File_5eb3b343_6541_4b65_b5cd_399eabe2e26f	WT	rep2	DE	D	D	D	D	D	3	
+WT_rep2-20231129-mksa.png	File_61050737_5e42_4f47_84b1_17badda3e6bc	WT	rep2	DE	D	D	D	D	D	3	
+WT_rep2-20231129-mrec.png	File_61a2c395_09fb_439f_a605_51d55a171518	WT	rep2	DE	D	D	D	D	D	3	
+WT_rep2-20231129-mozb.png	File_62e3bdfd_b5c9_46c2_9ac5_bbcab982bc8c	WT	rep2	DE	D	D	D	D	D	3	
+WT_rep2_tec2-20231201-kvjy.png	File_64011195_1668_4afc_b8bb_10b0cf639b56	WT	rep2	DE	D	D	D	D	D	3	
+WT_rep2-20231129-mlfb.png	File_66a257ce_7759_46c3_aedd_7c79af3033c0	WT	rep2	DE	D	D	D	D	D	3	
+WT_rep2-20231129-mria.png	File_7634e1ac_580e_4663_9c4e_bb265ada619c	WT	rep2	DE	D	D	D	D	D	3	
+WT_rep2-20231129-mrnu.png	File_764188b9_1789_4e3e_a032_7ea46083193a	WT	rep2	DE	D	D	D	D	D	3	
+WT_rep2-20231129-mqyu.png	File_7e16605d_4dd1_4f90_924f_e4b1244c0c76	WT	rep2	DE	D	D	D	D	D	3	
+WT_rep2-20231129-mkuc.png	File_81163dfe_4c7a_4942_afda_7c61c972962e	WT	rep2	DE	D	D	D	D	D	3	
+WT_rep2-20231129-mrqj.png	File_88f7d6c4_8d70_4753_874d_8d6a67cac925	WT	rep2	DE	D	D	D	D	D	3	
+WT_rep2-20231129-mnfc.png	File_963638e8_7ba6_4bc0_b5fa_974012402af2	WT	rep2	DE	D	D	D	D	D	3	
+WT_rep2-20231129-mqvi.png	File_97be04f6_4a10_4830_81f2_d15fbabb8f10	WT	rep2	DE	D	D	D	D	D	3	
+WT_rep2-20231129-mlgk.png	File_99ac39c6_385d_4d26_ac7b_bc421f8e657d	WT	rep2	DE	D	D	D	D	D	3	
+WT_rep2-20231129-mqtn.png	File_9aa0f8f5_3a22_4bae_ac66_c7a8a7e5d915	WT	rep2	DE	D	D	D	D	D	3	
+WT_rep2-20231129-mqxy.png	File_9f914c9a_44c2_48cb_beb3_8a434daf03f1	WT	rep2	DE	D	D	D	D	D	3	
+WT_rep2-20231129-mlfq.png	File_a309d1cb_9687_478d_8141_364dafcd0c86	WT	rep2	DE	D	D	D	D	D	3	
+WT_rep2-20231129-mmsw.png	File_a629bb88_41fb_4df7_ac8a_81c0e652cb68	WT	rep2	DE	D	D	D	D	D	3	
+WT_rep2-20231129-mran.png	File_b2571d6c_076f_4a39_8cca_e7e529a0a74c	WT	rep2	DE	D	D	D	D	D	3	
+WT_rep2-20231129-mmtm.png	File_b52e60bb_c473_4495_a226_ef4a095bef81	WT	rep2	DE	D	D	D	D	D	3	
+WT_rep2-20231129-mmqq.png	File_b5cc8bfa_74db_4021_b7db_979ccfd0f82e	WT	rep2	DE	D	D	D	D	D	3	
+WT_rep2-20231129-mnnm.png	File_ba7e0d41_ba9c_4018_8893_a68458741105	WT	rep2	DE	D	D	D	D	D	3	
+WT_rep2-20231129-mnmr.png	File_c2bd1f9a_4195_444a_8cbd_27d6a6bcbef0	WT	rep2	DE	D	D	D	D	D	3	
+WT_rep2-20231129-mquh.png	File_c926283d_abcb_4927_b3ad_6de8e8bf1a58	WT	rep2	DE	D	D	D	D	D	3	
+WT_rep2-20231129-moum.png	File_db60dd06_3dd2_44a9_9824_405af77460e5	WT	rep2	DE	D	D	D	D	D	3	
+WT_rep2-20231129-mmyb.png	File_dcbde2e3_072f_49b0_b703_192196c0d311	WT	rep2	DE	D	D	D	D	D	3	
+WT_rep2-20231129-mpah.png	File_e153fa1b_82cf_4201_a3a5_60570d82cbff	WT	rep2	DE	D	D	D	D	D	3	
+WT_rep2-20231129-mmpw.png	File_f4af4a15_3538_4c88_8f5b_e800f80e476c	WT	rep2	DE	D	D	D	D	D	3	
+WT_rep2-20231129-moxc.png	File_35b6ca96_522d_493b_8497_6dd195b86190	WT	rep2	DEE	D	D	D	D	D	3	
+WT_rep2-20231129-mowf.png	File_48520c95_8533_4b35_af3d_b4590e494af6	WT	rep2	DEE	D	D	D	D	D	3	
+WT_rep2-20231129-mmyu.png	File_ea8937bb_c50a_4c3c_ad88_ef53609b8d72	WT	rep2	DEE	D	D	D	D	D	3	
+WT_rep2_tec2-20231201-kvin.png	File_4481d02d_83ec_446d_b5e0_9ea56b8de9e5	WT	rep2	DEL	D	D	D	D	D	3	
+WT_rep2-20231129-mldd.png	File_4c4ed7fa_86bf_4e3c_985a_2fd60f6cc932	WT	rep2	DEL	D	D	D	D	D	3	
+WT_rep2-20231129-mllq.png	File_52bc466b_348d_4dd8_b90e_517d496233d2	WT	rep2	DEL	D	D	D	D	D	3	
+WT_rep2-20231129-mnox.png	File_85e53629_3397_4bd5_927d_d39294eca6c1	WT	rep2	DEL	D	D	D	D	D	3	
+WT_rep2-20231129-mkrh.png	File_a2684ca0_e09c_439a_a5fe_dd5c17127c81	WT	rep2	DEL	D	D	D	D	D	3	
+WT_rep2-20231129-mlbn.png	File_adcfe2c4_dea3_4038_bacf_a61c601cd47e	WT	rep2	DEL	D	D	D	D	D	3	
+WT_rep2-20231129-mohf.png	File_fa5cf808_43a2_4944_a002_9de56f72a97b	WT	rep2	DEL	D	D	D	D	D	3	
+WT_rep2_tec2-20231201-kvfi.png	File_07193d4d_f3e1_44f7_b8a6_21bac5b1a91e	WT	rep2	DL	D	D	D	D	D	3	
+WT_rep2_tec2-20231201-kvbz.png	File_12a4d3a9_a368_4517_9254_a69b6d2ddca7	WT	rep2	DL	D	D	D	D	D	3	
+WT_rep2_tec2-20231201-kvep.png	File_12adf4de_23a3_4b63_b934_4a7a28b0f749	WT	rep2	DL	D	D	D	D	D	3	
+WT_rep2_tec2-20231201-kzlx.png	File_6f1224d7_5085_4e14_a0e8_990c7d191228	WT	rep2	DL	D	D	D	D	D	3	
+WT_rep2-20231129-mpqk.png	File_7514d56f_72bd_48da_8837_ccee4a3a0ec4	WT	rep2	DL	D	D	D	D	D	3	
+WT_rep2_tec2-20231201-kvdn.png	File_933341f3_8702_4ba6_8e87_7dbf632fe78a	WT	rep2	DL	D	D	D	D	D	3	
+WT_rep2_tec2-20231201-kvls.png	File_a74219c0_8b5d_4a84_b5c6_817da59b376f	WT	rep2	DL	D	D	D	D	D	3	
+WT_rep2-20231129-mktj.png	File_ab137c88_8888_4c9b_b603_b26767452984	WT	rep2	DL	D	D	D	D	D	3	
+WT_rep2_tec2-20231201-lhkx.png	File_b5c4f0a0_9f1b_4ccb_9b95_896ab662df61	WT	rep2	DL	D	D	D	D	D	3	
+WT_rep2_tec2-20231201-kzlf.png	File_be9640da_f598_4386_8428_03f7b8e627a8	WT	rep2	DL	D	D	D	D	D	3	
+WT_rep2_tec2-20231201-lhwu.png	File_c45ec45b_911f_4f19_92df_58b5eb430ece	WT	rep2	DL	D	D	D	D	D	3	
+WT_rep2_tec2-20231201-lhkh.png	File_ccd65b87_c84b_499e_bf66_3e6b4d719fdc	WT	rep2	DL	D	D	D	D	D	3	
+WT_rep2-20231129-mpsj.png	File_d33722ab_9ebd_4f48_9206_2f2a2a725f13	WT	rep2	DL	D	D	D	D	D	3	
+WT_rep2_tec2-20231201-kzmr.png	File_d3f73b60_8589_41fe_9053_b9f5ca6d9146	WT	rep2	DL	D	D	D	D	D	3	
+WT_rep2_tec2-20231201-lhyj.png	File_f0d96bcf_7bd9_4241_8207_29790010986b	WT	rep2	DL	D	D	D	D	D	3	Nice pic
+WT_rep2_tec2-20231201-lhve.png	File_f835b12d_6bd8_4a44_86c1_dc08a806a25d	WT	rep2	DL	D	D	D	D	D	3	
+WT_rep2_tec2-20231201-lhxj.png	File_fe7c8eee_1435_4d95_9aab_613e128df44a	WT	rep2	DL	D	D	D	D	D	3	
+WT_rep2_tec2-20231201-lhzw.png	File_0e0a8e60_964f_4937_8c2b_1fe630d70e47	WT	rep2	DLE	D	D	D	D	D	3	
+WT_rep2-20231129-mnru.png	File_292d89eb_d794_4b4d_b734_c747fc896345	WT	rep2	DLE	D	D	D	D	D	3	Artifacts
+WT_rep2_tec2-20231201-kvcv.png	File_502c8321_9a7d_4a31_9c63_c57d662159ee	WT	rep2	DLE	D	D	D	D	D	3	
+WT_rep2-20231129-mlel.png	File_ea1e0066_4691_45ed_844e_45b8de70187e	WT	rep2	DLE	D	D	D	D	D	3	
+WT_rep2_tec2-20231201-lhty.png	File_f040cedd_a0af_4c1b_a86a_18f95a4e8c79	WT	rep2	DLE	D	D	D	D	D	3	
+WT_rep2-20231129-mocq.png	File_06b3746e_f2bc_419c_a16a_eacbaa4f587a	WT	rep2	PE	PEM	PEM	PEM	PEM	PEM	2	
+WT_rep2_tec2-20231201-kyib.png	File_4e7f9a92_0fde_47a4_9433_46660e60bad5	WT	rep2	PE	PEM	PEM	PEM	PEM	PEM	2	
+WT_rep2_tec2-20231201-kygc.png	File_9c9afb6c_2d55_4b63_8b7a_b0ba006ce148	WT	rep2	PE	PEM	PEM	PEM	PEM	PEM	2	
+WT_rep2-20231129-mlir.png	File_2367f343_38e3_4ba4_b689_addcd29f5cb0	WT	rep2	PL	PL	PL	PL	PL	PL	3	Good pic, except for the sperm heads
+WT_rep2-20231129-mojy.png	File_344de8a5_f1ce_4e57_8819_1a759a8aeab5	WT	rep2	PL	PL	PL	PL	PL	PL	3	
+WT_rep2-20231129-mkdv.png	File_429244ce_7fcb_4dd2_9239_ccf4015549bc	WT	rep2	PL	PL	PL	PL	PL	PL	3	
+WT_rep2-20231129-mklc.png	File_6f0cc7b9_b671_4a2a_8369_c18736f0f811	WT	rep2	PL	PL	PL	PL	PL	PL	3	
+WT_rep2-20231129-mqbb.png	File_6f3fa2f1_2b29_4a1c_abaa_11d4dd950f02	WT	rep2	PL	PL	PL	PL	PL	PL	3	
+WT_rep2-20231129-mpwo.png	File_9270a88b_fe29_4121_9ece_5441be81d757	WT	rep2	PL	PL	PL	PL	PL	PL	3	
+WT_rep2-20231129-mmio.png	File_94e4c1a7_a281_43b9_b579_68f4320cabfd	WT	rep2	PL	PL	PL	PL	PL	PL	3	Difficult to see XY—but appears to be PL
+WT_rep2-20231129-mqqr.png	File_9a19de38_61c3_44ce_9ac8_984ab7464b98	WT	rep2	PL	PL	PL	PL	PL	PL	3	
+WT_rep2-20231129-mpnm.png	File_9dc80910_3b2c_4161_b616_2f3800559e96	WT	rep2	PL	PL	PL	PL	PL	PL	3	
+WT_rep2-20231129-mpel.png	File_b23b1c9a_feef_452a_b2e9_6d65c080117a	WT	rep2	PL	PL	PL	PL	PL	PL	3	One large "M focus" in the autosomal region
+WT_rep2-20231129-mlxb.png	File_c28e6285_448f_4153_8bf2_bc59e293dba2	WT	rep2	PL	PL	PL	PL	PL	PL	3	Mutant? Abnormally large XY self-synapsis
+WT_rep2-20231129-mlnc.png	File_cd9bf785_952b_40a9_9cb9_3072e2eddb62	WT	rep2	PL	PL	PL	PL	PL	PL	3	
+WT_rep2-20231129-mpmg.png	File_d6a52f8b_175d_4936_90f1_af3b721afebc	WT	rep2	PL	PL	PL	PL	PL	PL	3	
+WT_rep2-20231129-mrcq.png	File_d75aeb39_8576_4699_b99d_44221b630f34	WT	rep2	PL	PL	PL	PL	PL	PL	3	
+WT_rep2-20231129-mmlx.png	File_f3ac543c_2d77_4ba1_8291_155a427faa03	WT	rep2	PL	PL	PL	PL	PL	PL	3	
+WT_rep2-20231129-mpxm.png	File_fc360249_48e1_449f_9723_9d980b7b2647	WT	rep2	PL	PL	PL	PL	PL	PL	3	
+WT_rep2-20231129-mpbe.png	File_d6022458_1bd9_455e_8719_a650421cd7e4	WT	rep2	DEE	D	D	D	D	D	3	Or PLL? Kind of hard to see because of focus issues
+WT_rep2-20231129-mkoo.png	File_3ea6414e_9886_44df_9e4d_7e7f3cb9e959	WT	rep2	PM	PEM	PEM	PEM	PEM	PEM	2	
+WT_rep2-20231129-mlyl.png	File_0fa97ab6_eacd_49c7_b893_423c96879f29	WT	rep2	PM	PEM	PEM	PEM	PEM	PEM	3	
+WT_rep2-20231129-moqc.png	File_139f8eed_3cbe_47aa_b0c6_23ca9a74848b	WT	rep2	PM	PEM	PEM	PEM	PEM	PEM	3	
+WT_rep2-20231129-mqpe.png	File_2415ffde_bccc_4c0e_bf63_369aa061f07b	WT	rep2	PM	PEM	PEM	PEM	PEM	PEM	3	
+WT_rep2-20231129-mkgs.png	File_26865beb_878e_4c5c_9b21_3c6f55d76174	WT	rep2	PM	PEM	PEM	PEM	PEM	PEM	3	
+WT_rep2-20231129-mlzd.png	File_2be9fe97_54ca_4851_b064_295fa601eb83	WT	rep2	PM	PEM	PEM	PEM	PEM	PEM	3	
+WT_rep2-20231129-mqda.png	File_3aac05ae_ce46_4a97_8413_00248f46678d	WT	rep2	PM	PEM	PEM	PEM	PEM	PEM	3	
+WT_rep2-20231129-more.png	File_3adf0c2d_9a45_4255_88a9_8bc44a7b12b1	WT	rep2	PM	PEM	PEM	PEM	PEM	PEM	3	
+WT_rep2-20231129-mpik.png	File_3dde5ce7_4c8a_4e93_8191_b58b5f34886a	WT	rep2	PM	PEM	PEM	PEM	PEM	PEM	3	
+WT_rep2-20231129-mlzz.png	File_48de7fef_f349_4871_b728_e0e75e9d6609	WT	rep2	PM	PEM	PEM	PEM	PEM	PEM	3	
+WT_rep2-20231129-mnjn.png	File_4f8219e6_1e10_466c_83bb_49d1235047de	WT	rep2	PM	PEM	PEM	PEM	PEM	PEM	3	Could be PM 2
+WT_rep2-20231129-mkjn.png	File_7c680749_6c0e_4831_8119_f5da0c4156fa	WT	rep2	PM	PEM	PEM	PEM	PEM	PEM	3	
+WT_rep2-20231129-mkhk.png	File_8fc5ab7d_96b0_4ea6_a445_301281ab5cad	WT	rep2	PM	PEM	PEM	PEM	PEM	PEM	3	
+WT_rep2-20231129-mlxu.png	File_96a99eac_a74d_4c17_820c_cdd10b253d2f	WT	rep2	PM	PEM	PEM	PEM	PEM	PEM	3	
+WT_rep2-20231129-mnzv.png	File_9fe2e449_44ee_4bf4_9a95_db8fe395cb86	WT	rep2	PM	PEM	PEM	PEM	PEM	PEM	3	
+WT_rep2-20231129-mmjh.png	File_a422ef18_3e2d_4dfc_a125_f853540cf9cf	WT	rep2	PM	PEM	PEM	PEM	PEM	PEM	3	Can't see XY
+WT_rep2-20231129-mmej.png	File_a53b2697_5ada_4c63_963c_51cb16513dd5	WT	rep2	PM	PEM	PEM	PEM	PEM	PEM	3	
+WT_rep2-20231129-mmdp.png	File_a735a22a_cf3b_48e4_add2_80943198288e	WT	rep2	PM	PEM	PEM	PEM	PEM	PEM	3	Can't see XY
+WT_rep2-20231129-mkit.png	File_a8a0a38e_d7c9_4fc6_89b0_77b02eba561d	WT	rep2	PM	PEM	PEM	PEM	PEM	PEM	3	
+WT_rep2-20231129-mphm.png	File_b064e747_d2e3_4fbe_b8c5_48d04f656885	WT	rep2	PM	PEM	PEM	PEM	PEM	PEM	3	
+WT_rep2-20231129-monf.png	File_b69711fa_8a94_4d4b_b1a8_94a00f3a34a8	WT	rep2	PM	PEM	PEM	PEM	PEM	PEM	3	Mutant? Circular SYCP3 intranuclear... things? Broken chromosomes?
+WT_rep2-20231129-mooe.png	File_cbb12210_e1bf_422c_b0a6_8c71a5e1aa87	WT	rep2	PM	PEM	PEM	PEM	PEM	PEM	3	Hard to see XY
+WT_rep2-20231129-mqag.png	File_d14af491_232e_4fce_8cd0_8e03c648edc5	WT	rep2	PM	PEM	PEM	PEM	PEM	PEM	3	
+WT_rep2-20231129-mlwg.png	File_d6791955_963d_4336_95c7_142c57896912	WT	rep2	PM	PEM	PEM	PEM	PEM	PEM	3	
+WT_rep2-20231129-mmfm.png	File_da7d1252_192a_4927_9eb0_86d313996405	WT	rep2	PM	PEM	PEM	PEM	PEM	PEM	3	
+WT_rep2-20231129-mopb.png	File_dadef558_f96d_41e2_b09f_e762a7352f64	WT	rep2	PM	PEM	PEM	PEM	PEM	PEM	3	Mutant? Abnormally large PAR
+WT_rep2-20231129-moee.png	File_e1f411f9_f8a0_45c5_911c_09bffa95d48a	WT	rep2	PM	PEM	PEM	PEM	PEM	PEM	3	
+WT_rep2-20231129-modl.png	File_e3fd4f5d_141d_4d43_ab80_07c3b5da3610	WT	rep2	PM	PEM	PEM	PEM	PEM	PEM	3	Poor quality image—artifacts from slide being "dried out"
+WT_rep2-20231129-mniv.png	File_2923654f_63be_4ad5_b03f_8d9ea4ae1faa	WT	rep2	PME	PEM	PEM	PEM	PEM	PEM	3	
+WT_rep2-20231129-mqcd.png	File_9586dcf8_0433_4ac1_9aa7_1c829ee8a167	WT	rep2	PML	PEM	PL	PEM	PEM	PEM	3	Or PLE?
+WT_rep2-20231129-mqea.png	File_a5ae78ad_ca1e_45c9_b9aa_104b3e67becf	WT	rep2	PML	PEM	PL	PEM	PEM	PEM	3	PLE?
+WT_rep2-20231129-mmcm.png	File_ab06f4e9_6fd2_44f3_8529_10d6257aa745	WT	rep2	PML	PEM	PL	PEM	PEM	PEM	3	
+WT_rep2-20231129-mqlh.png	File_176a1bfe_4867_4a84_9aa1_5bbe5b9ec4a4	WT	rep2	ZE	ZEM	ZEM	ZEM	ZEM	ZEM	1	
+WT_rep2_tec2-20231201-kvsz.png	File_7eb68415_a23c_43b5_9265_9843fcce3f21	WT	rep2	ZL	ZL	ZL	ZL	ZL	ZL	1	
+WT_rep2_tec2-20231201-kyhi.png	File_3c6ca0b7_24c6_430f_8ac3_d24bded9751d	WT	rep2	ZL	ZL	ZL	ZL	ZL	ZL	2	...or could be PEE 2
+WT_rep2_tec2-20231201-kyel.png	File_89d59947_15cc_4522_be38_ad228612a68a	WT	rep2	ZL	ZL	ZL	ZL	ZL	ZL	2	
+WT_rep2_tec2-20231201-kyya.png	File_b00ac039_99da_461f_81b6_4330f69b3b8b	WT	rep2	ZL	ZL	ZL	ZL	ZL	ZL	2	
+WT_rep2_tec2-20231201-kyff.png	File_74d9d7d8_9e40_4d45_8d24_994d55b4a2a4	WT	rep2	ZLL	ZL	ZL	ZL	ZL	PE	2	
+WT_rep2-20231129-mqmp.png	File_14e5afc2_8d51_49ae_96ba_9ba21826cd9e	WT	rep2	ZM	ZEM	ZEM	ZEM	ZEM	ZEM	1	
+WT_rep2_tec2-20231201-lhsj.png	File_351dd0d6_161a_4d78_8d07_9c0e19145cbb	WT	rep2	ZM	ZEM	ZEM	ZEM	ZEM	ZEM	1	Could be a heavy 2 and ZLE
+WT_rep2_tec2-20231201-kyoc.png	File_5845befb_2314_42b9_9a32_a1f2511d0bdc	WT	rep2	ZM	ZEM	ZEM	ZEM	ZEM	ZEM	1	Good pic
+WT_rep2_tec2-20231201-kvsa.png	File_5a864a5f_c91b_4093_aff7_013b88d6a0ab	WT	rep2	ZM	ZEM	ZEM	ZEM	ZEM	ZEM	1	
+WT_rep2_tec2-20231201-lhrr.png	File_a17f9b34_721e_416b_9c35_b5f220ad3541	WT	rep2	ZM	ZEM	ZEM	ZEM	ZEM	ZEM	2	
+WT_rep3-20231129-nqie.png	File_69332451_87ee_4a76_9a25_f3421f0fd6cf	WT	rep3	DE	D	D	D	D	D	3	
+WT_rep3-20231129-nqhm.png	File_1c2b9465_d666_41db_918b_0f9dcd1b7522	WT	rep3	DEE	D	D	D	D	D	3	
+WT_rep3-20231129-mucy.png	File_1037421b_3d72_456e_a3eb_d8efe621fc92	WT	rep3	DL	D	D	D	D	D	3	
+WT_rep3-20231129-mvbn.png	File_167d43a7_0f78_425e_821e_dff46bd38532	WT	rep3	DL	D	D	D	D	D	3	
+WT_rep3-20231129-mxjd.png	File_305cf948_9110_45cc_8815_0677f79617dc	WT	rep3	DL	D	D	D	D	D	3	
+WT_rep3_tec2-20231201-lebg.png	File_364235d6_af9d_4f1d_8e1d_2dec977796f9	WT	rep3	DL	D	D	D	D	D	3	
+WT_rep3_tec2-20231201-leno.png	File_3b8d4ffc_001d_4122_a291_befe3234a594	WT	rep3	DL	D	D	D	D	D	3	
+WT_rep3-20231129-mxhd.png	File_493a1ae7_3e6d_4f35_9218_3335d2457982	WT	rep3	DL	D	D	D	D	D	3	
+WT_rep3-20231129-mymt.png	File_5227ba4d_65c6_4f2a_aa3d_ef6e77ca2ed4	WT	rep3	DL	D	D	D	D	D	3	
+WT_rep3_tec2-20231201-ldyx.png	File_7d787f4d_3e81_4b5b_ad75_b4c5ad393304	WT	rep3	DL	D	D	D	D	D	3	
+WT_rep3-20231129-mymc.png	File_945af38d_02d7_4153_bc82_29dde7fe0634	WT	rep3	DL	D	D	D	D	D	3	
+WT_rep3_tec2-20231201-lfdj.png	File_94d7dc9f_c612_4ec6_af3d_1ed5551f8db3	WT	rep3	DL	D	D	D	D	D	3	
+WT_rep3-20231129-mxhu.png	File_bc987b1a_8db8_473c_93ef_4164ff87edb0	WT	rep3	DL	D	D	D	D	D	3	
+WT_rep3-20231129-mucd.png	File_be90b48e_9771_48d2_9a7f_cd4f539f8466	WT	rep3	DL	D	D	D	D	D	3	
+WT_rep3-20231129-mykx.png	File_c8564202_841a_4537_8f25_cc9abdc008a4	WT	rep3	DL	D	D	D	D	D	3	
+WT_rep3-20231129-nqac.png	File_cc7229ed_eaff_4cb6_b67a_eb66798699d1	WT	rep3	DL	D	D	D	D	D	3	
+WT_rep3-20231129-mubl.png	File_d52fb04a_0b53_4f19_9984_10d01def7711	WT	rep3	DL	D	D	D	D	D	3	
+WT_rep3-20231129-mxin.png	File_f8af5e12_3f61_4777_9ed6_ee0edc046095	WT	rep3	DL	D	D	D	D	D	3	
+WT_rep3_tec2-20231201-lfaf.png	File_f90ec64d_f546_49ed_a169_25569be0c287	WT	rep3	DL	D	D	D	D	D	3	
+WT_rep3-20231129-myln.png	File_f9f3e01b_acb7_4e7f_8c58_79229375d6fa	WT	rep3	DL	D	D	D	D	D	3	
+WT_rep3_tec2-20231201-lekh.png	File_4b4cc85d_073e_4d10_986b_543e3f8401ad	WT	rep3	DLE	D	D	D	D	D	3	
+WT_rep3-20231129-muyv.png	File_e530d1bf_8268_4017_9cb6_96edbc586060	WT	rep3	DLE	D	D	D	D	D	3	
+WT_rep3-20231129-mwlv.png	File_11cce977_134b_4103_afda_a52e3dea3db0	WT	rep3	PE	PEM	PEM	PEM	PEM	PEM	2	
+WT_rep3-20231129-mxcd.png	File_1bfabad6_115e_4563_a0dd_23985afcd37d	WT	rep3	PE	PEM	PEM	PEM	PEM	PEM	2	Very light 2
+WT_rep3-20231129-mwnb.png	File_25c422e7_d09f_4c64_9a39_c138e9fee51e	WT	rep3	PE	PEM	PEM	PEM	PEM	PEM	2	
+WT_rep3-20231129-mwus.png	File_2a83feef_2d45_4d6d_ab6c_772c6532b2f8	WT	rep3	PE	PEM	PEM	PEM	PEM	PEM	2	...or late 2
+WT_rep3-20231129-mvqz.png	File_3f6401e5_2e6c_433d_a46e_7ea415f19b38	WT	rep3	PE	PEM	PEM	PEM	PEM	PEM	2	
+WT_rep3-20231129-mvnt.png	File_64b605f2_f7a4_40e1_a24d_56c65b1a30c6	WT	rep3	PE	PEM	PEM	PEM	PEM	PEM	2	
+WT_rep3-20231129-mwlg.png	File_b49e92d9_b2f2_4195_99d9_f1436772dfde	WT	rep3	PE	PEM	PEM	PEM	PEM	PEM	2	Mutant? Hard to see XY, but looks like abnormally large XY self-synapsis
+WT_rep3-20231129-mwmj.png	File_be6a4da8_8110_443c_8ca0_848be86d80c5	WT	rep3	PE	PEM	PEM	PEM	PEM	PEM	2	
+WT_rep3-20231129-mtjd.png	File_e8c62c39_0792_4995_a9ac_4abaee93328a	WT	rep3	PE	PEM	PEM	PEM	PEM	PEM	2	
+WT_rep3-20231129-mxse.png	File_05f41972_2b47_4561_9a82_aef8323e8941	WT	rep3	PE	PEM	PEM	PEM	PEM	PEM	3	
+WT_rep3-20231129-msnv.png	File_fc82739e_c31a_476e_9f23_9e407609a4db	WT	rep3	PEE	PEM	PEM	PEM	ZL	PEM	2	Completion of transition from ZLL?
+WT_rep3-20231129-mslg.png	File_303f631f_e60a_4885_9132_a8f2c20679cf	WT	rep3	PEL	PEM	PEM	PEM	PEM	PEM	2	
+WT_rep3-20231129-mwwy.png	File_947f7c3c_78ec_46ac_89ba_ff93f7aa4b20	WT	rep3	PEL	PEM	PEM	PEM	PEM	PEM	2	PME?
+WT_rep3-20231129-mtua.png	File_2b1458f2_c8f6_4a76_a5f9_81c2124e33d0	WT	rep3	PL	PL	PL	PL	PL	PL	3	
+WT_rep3-20231129-mvmc.png	File_40742ac7_0b2a_4f94_994f_23d7f48b1318	WT	rep3	PL	PL	PL	PL	PL	PL	3	
+WT_rep3-20231129-mwca.png	File_6398c558_5a4e_46e1_9463_6069b870fa34	WT	rep3	PL	PL	PL	PL	PL	PL	3	Mutant?
+WT_rep3-20231129-mxzg.png	File_86dc8f14_ff0c_4cba_aa94_217999622160	WT	rep3	PL	PL	PL	PL	PL	PL	3	
+WT_rep3-20231129-mwqt.png	File_8b91e347_8bed_4904_ae1d_4bd87a5fa77c	WT	rep3	PL	PL	PL	PL	PL	PL	3	
+WT_rep3-20231129-mwzy.png	File_a183dbb6_c0fa_43b9_b9bd_a5ebacf13cb0	WT	rep3	PL	PL	PL	PL	PL	PL	3	
+WT_rep3-20231129-mvkc.png	File_b0f247f8_731f_466e_8e32_fc27a664dfdc	WT	rep3	PL	PL	PL	PL	PL	PL	3	
+WT_rep3-20231129-mtqt.png	File_b7758328_f45d_4b7e_9a48_b460beb0b769	WT	rep3	PL	PL	PL	PL	PL	PL	3	Spotted an "M focus"
+WT_rep3-20231129-mvdp.png	File_b9ee0ff0_ce61_4843_91da_be6535ba0151	WT	rep3	PL	PL	PL	PL	PL	PL	3	
+WT_rep3-20231129-mvkw.png	File_c497b5d2_2ffb_4305_913c_b320db0fdd07	WT	rep3	PL	PL	PL	PL	PL	PL	3	
+WT_rep3-20231129-mxzw.png	File_dbc0dc80_5f70_4783_a6a4_0b95b34548e3	WT	rep3	PL	PL	PL	PL	PL	PL	3	
+WT_rep3-20231129-mxym.png	File_dee724c1_3d4c_47a2_9a14_8de428152bb5	WT	rep3	PL	PL	PL	PL	PL	PL	3	
+WT_rep3-20231129-mwri.png	File_ea355180_9785_4611_9324_3fa48ddf53f9	WT	rep3	PL	PL	PL	PL	PL	PL	3	One "M focus"
+WT_rep3-20231129-mvig.png	File_f5b3ea56_c806_4f02_97bf_7a6c134702f6	WT	rep3	PL	PL	PL	PL	PL	PL	3	
+WT_rep3-20231129-mvjj.png	File_fde1de8f_732a_48a5_bc2c_c816ed3bbb89	WT	rep3	PL	PL	PL	PL	PL	PL	3	
+WT_rep3-20231129-mwpw.png	File_29664421_4b9b_4f35_9275_20ea0464b7b5	WT	rep3	PLE	PL	PL	PEM	PEM	PEM	3	Or PML?
+WT_rep3-20231129-nqeh.png	File_4224cda0_cb98_4cf2_8c2b_20aa8f3ef40b	WT	rep3	PLE	PL	PL	PEM	PEM	PEM	3	
+WT_rep3-20231129-mtox.png	File_4b154823_da2e_479c_b577_575b0da4d3af	WT	rep3	PLE	PL	PL	PEM	PEM	PEM	3	Or PML 3
+WT_rep3-20231129-nqda.png	File_60effd25_3702_4b76_9317_9f0555411d9f	WT	rep3	PLE	PL	PL	PEM	PEM	PEM	3	
+WT_rep3-20231129-mwpe.png	File_689ac98c_54c3_42aa_86a1_615c0075ae59	WT	rep3	PLE	PL	PL	PEM	PEM	PEM	3	
+WT_rep3-20231129-mtcm.png	File_6f266f8f_5966_419d_9d28_3e33d7f31642	WT	rep3	PLE	PL	PL	PEM	PEM	PEM	3	Could be PML 3
+WT_rep3-20231129-npyj.png	File_7bf8fda9_9ba5_411b_9899_8ad5efadbc7f	WT	rep3	PLE	PL	PL	PEM	PEM	PEM	3	Or PML 3
+WT_rep3-20231129-msql.png	File_8b8b356c_6f29_4933_8346_4e4e913540a7	WT	rep3	PLE	PL	PL	PEM	PEM	PEM	3	Or PML 3
+WT_rep3-20231129-nqoy.png	File_c4ff5c15_b9ef_4bc0_98d7_4c36cd0e398e	WT	rep3	PLE	PL	PL	PEM	PEM	PEM	3	Couple of "M foci"
+WT_rep3-20231129-mxjx.png	File_aed84379_4a6f_4163_9bea_7e9524537bd2	WT	rep3	PLL	PL	PL	PL	PL	PL	3	Transitioning to DE
+WT_rep3-20231129-mtjy.png	File_05195983_d4a8_4313_944e_b0cce3168e10	WT	rep3	PM	PEM	PEM	PEM	PEM	PEM	2	Mutant?
+WT_rep3-20231129-mwwi.png	File_f075c5e2_65dd_4412_a920_37439496774e	WT	rep3	PM	PEM	PEM	PEM	PEM	PEM	2	
+WT_rep3-20231129-mvfz.png	File_f4abc73a_6c1e_4c5a_bb3b_27502c9a6cb3	WT	rep3	PM	PEM	PEM	PEM	PEM	PEM	2	Dying cell? Hard to see XY
+WT_rep3-20231129-myda.png	File_08194531_a2dc_4579_bdcd_80cc8c685f1c	WT	rep3	PM	PEM	PEM	PEM	PEM	PEM	3	
+WT_rep3-20231129-mxuw.png	File_0c180430_7382_436a_ba72_f9dc437c481a	WT	rep3	PM	PEM	PEM	PEM	PEM	PEM	3	
+WT_rep3-20231129-muly.png	File_12c5ff0a_6ccd_46e2_9429_8c178fe2ef63	WT	rep3	PM	PEM	PEM	PEM	PEM	PEM	3	
+WT_rep3-20231129-mxdm.png	File_18adaac5_1a0a_4735_a03b_2b141a7a7a28	WT	rep3	PM	PEM	PEM	PEM	PEM	PEM	3	
+WT_rep3-20231129-mtdp.png	File_1f4e2286_11e8_4672_8bf7_d6f335d2dc86	WT	rep3	PM	PEM	PEM	PEM	PEM	PEM	3	
+WT_rep3-20231129-mvzh.png	File_1f84c405_2f49_4f00_8f99_984123258838	WT	rep3	PM	PEM	PEM	PEM	PEM	PEM	3	
+WT_rep3-20231129-mxud.png	File_2104bce3_6ca0_43f7_a9d2_a161077fc93f	WT	rep3	PM	PEM	PEM	PEM	PEM	PEM	3	Mutant? Large XY synapsis
+WT_rep3-20231129-myga.png	File_21854023_9575_4c06_ae0e_4dbe899d16a6	WT	rep3	PM	PEM	PEM	PEM	PEM	PEM	3	
+WT_rep3-20231129-npvg.png	File_26741552_9ad6_4841_aa55_347eb6c653f6	WT	rep3	PM	PEM	PEM	PEM	PEM	PEM	3	Slide-preparation artifacts
+WT_rep3-20231129-mwdq.png	File_29d14635_b3db_431d_bd36_4b6ebf820c1e	WT	rep3	PM	PEM	PEM	PEM	PEM	PEM	3	
+WT_rep3-20231129-mszo.png	File_2e6ff683_da80_45c7_82c1_e465fa4bb1dc	WT	rep3	PM	PEM	PEM	PEM	PEM	PEM	3	
+WT_rep3-20231129-mwbd.png	File_2ef49361_0816_4d02_8b78_596035e94774	WT	rep3	PM	PEM	PEM	PEM	PEM	PEM	3	
+WT_rep3-20231129-mydt.png	File_3587ec47_68c4_4b2c_b968_120154947824	WT	rep3	PM	PEM	PEM	PEM	PEM	PEM	3	
+WT_rep3-20231129-npno.png	File_35954618_74c4_43a3_946b_1b470a97d7a0	WT	rep3	PM	PEM	PEM	PEM	PEM	PEM	3	
+WT_rep3-20231129-mxcv.png	File_4074fa4a_df28_4684_95f3_36f392f3513c	WT	rep3	PM	PEM	PEM	PEM	PEM	PEM	3	
+WT_rep3-20231129-npkv.png	File_4b096a7c_0263_42e1_9145_17eee8f4aaaf	WT	rep3	PM	PEM	PEM	PEM	PEM	PEM	3	
+WT_rep3-20231129-mujv.png	File_4b7b1fc3_489c_44b1_a439_39a180109844	WT	rep3	PM	PEM	PEM	PEM	PEM	PEM	3	
+WT_rep3-20231129-mygy.png	File_4efda8b0_41e9_41c6_a2c3_b92290af5ddc	WT	rep3	PM	PEM	PEM	PEM	PEM	PEM	3	
+WT_rep3-20231129-msya.png	File_520e1bad_8d48_4123_bcca_963eb231d2fa	WT	rep3	PM	PEM	PEM	PEM	PEM	PEM	3	Mutant PM?
+WT_rep3-20231129-mwcy.png	File_579961e6_22fc_4028_b8ca_c6834aa65801	WT	rep3	PM	PEM	PEM	PEM	PEM	PEM	3	
+WT_rep3-20231129-mugz.png	File_5cfefbc2_d9cc_48be_8320_0dd0bef40335	WT	rep3	PM	PEM	PEM	PEM	PEM	PEM	3	
+WT_rep3-20231129-mxvw.png	File_63977ea9_82e0_4a80_a16a_4421f88e8344	WT	rep3	PM	PEM	PEM	PEM	PEM	PEM	3	
+WT_rep3-20231129-mtmu.png	File_67baa43a_4021_4e7b_a6e2_35cf0f97d3cd	WT	rep3	PM	PEM	PEM	PEM	PEM	PEM	3	
+WT_rep3-20231129-mtaq.png	File_6c39c601_0047_46e4_957a_df65cf338b31	WT	rep3	PM	PEM	PEM	PEM	PEM	PEM	3	
+WT_rep3-20231129-mxec.png	File_6d5d0132_bcd4_42fd_8a91_7bdc4673e01b	WT	rep3	PM	PEM	PEM	PEM	PEM	PEM	3	
+WT_rep3-20231129-muld.png	File_6ddb173f_943c_4425_9c3f_5df25398f78f	WT	rep3	PM	PEM	PEM	PEM	PEM	PEM	3	
+WT_rep3-20231129-mwgp.png	File_6de3e01c_e345_471f_b189_e3dea213828d	WT	rep3	PM	PEM	PEM	PEM	PEM	PEM	3	Could be a light 2
+WT_rep3-20231129-mumt.png	File_76b2401e_199b_4689_b163_0b33f3cd5cd4	WT	rep3	PM	PEM	PEM	PEM	PEM	PEM	3	
+WT_rep3-20231129-myfj.png	File_77b223b6_4859_4e48_8251_297af16d6b05	WT	rep3	PM	PEM	PEM	PEM	PEM	PEM	3	
+WT_rep3-20231129-mwhk.png	File_796a7b59_9e30_4287_b619_42015feb4b29	WT	rep3	PM	PEM	PEM	PEM	PEM	PEM	3	
+WT_rep3-20231129-mswc.png	File_7b5922a8_6505_42c7_b2e6_8682f3e986f6	WT	rep3	PM	PEM	PEM	PEM	PEM	PEM	3	
+WT_rep3-20231129-muhy.png	File_8181393f_95f9_4b64_a21a_2f3e077acd68	WT	rep3	PM	PEM	PEM	PEM	PEM	PEM	3	
+WT_rep3-20231129-npjo.png	File_96630ef0_a719_4ff0_87bd_0febe3e5fd0f	WT	rep3	PM	PEM	PEM	PEM	PEM	PEM	3	
+WT_rep3-20231129-mwvl.png	File_97871931_d09c_4cef_a39e_28aa400b24e6	WT	rep3	PM	PEM	PEM	PEM	PEM	PEM	3	Mutant? Large amount of XY self-synapsis
+WT_rep3-20231129-msul.png	File_9deba63e_cd85_4989_a4eb_a8f2a6dae527	WT	rep3	PM	PEM	PEM	PEM	PEM	PEM	3	
+WT_rep3-20231129-mtwd.png	File_9f859df7_bfa1_4c1f_9e17_f32a6c20b7f6	WT	rep3	PM	PEM	PEM	PEM	PEM	PEM	3	
+WT_rep3-20231129-mste.png	File_a04ff5c1_fd02_41c5_ae83_52b4ae264d0b	WT	rep3	PM	PEM	PEM	PEM	PEM	PEM	3	Mutant?
+WT_rep3-20231129-mweo.png	File_a5e1d0e9_8caa_4ac0_8f77_fdd949ffb5a9	WT	rep3	PM	PEM	PEM	PEM	PEM	PEM	3	Artifacts and/or perhaps dying cell?
+WT_rep3-20231129-nptd.png	File_a7f73053_ad3e_4ec3_9b77_835de564a710	WT	rep3	PM	PEM	PEM	PEM	PEM	PEM	3	
+WT_rep3-20231129-npke.png	File_b690483b_57e6_4f3c_b902_486e76951094	WT	rep3	PM	PEM	PEM	PEM	PEM	PEM	3	Mutant?
+WT_rep3-20231129-mxqp.png	File_baaed738_a7cc_4efc_bb2a_eb7f0cdc46fe	WT	rep3	PM	PEM	PEM	PEM	PEM	PEM	3	Mutant? Kind of hard to see XY
+WT_rep3-20231129-muoq.png	File_bcabcbe7_0496_443a_a61f_8afe239c0614	WT	rep3	PM	PEM	PEM	PEM	PEM	PEM	3	Nice pic—mutant? Abnormal XY self-synapsis
+WT_rep3-20231129-nprr.png	File_d4e7cbe9_efa0_493d_af7c_e51e031febb2	WT	rep3	PM	PEM	PEM	PEM	PEM	PEM	3	
+WT_rep3-20231129-npiv.png	File_dfddb140_0d35_477a_914b_cfb4eb9e861d	WT	rep3	PM	PEM	PEM	PEM	PEM	PEM	3	
+WT_rep3-20231129-mxsv.png	File_ec89d1a2_5e7b_47c7_9405_4d032974cbb8	WT	rep3	PM	PEM	PEM	PEM	PEM	PEM	3	
+WT_rep3-20231129-mupj.png	File_f90747fe_aa00_4c24_92f9_65507391205a	WT	rep3	PM	PEM	PEM	PEM	PEM	PEM	3	
+WT_rep3-20231129-npue.png	File_fc80143c_3021_42db_bfff_2ea0c7d5e35f	WT	rep3	PM	PEM	PEM	PEM	PEM	PEM	3	
+WT_rep3-20231129-muit.png	File_426e368d_80bb_4e3e_97c5_17aebe4ed865	WT	rep3	PME	PEM	PEM	PEM	PEM	PEM	3	
+WT_rep3-20231129-myel.png	File_8f05032c_eac2_45e9_ac44_a50f2b59cf0f	WT	rep3	PME	PEM	PEM	PEM	PEM	PEM	3	
+WT_rep3-20231129-mwid.png	File_95c35874_942b_4627_a50b_2f51b08eea03	WT	rep3	PME	PEM	PEM	PEM	PEM	PEM	3	
+WT_rep3-20231129-mtut.png	File_056e40d6_f639_4f8a_92d9_02c5bf45aee1	WT	rep3	PML	PEM	PL	PEM	PEM	PEM	3	Or PEL
+WT_rep3-20231129-msvd.png	File_08b320ee_7c40_4497_a4fa_6aa81f0342c0	WT	rep3	PML	PEM	PL	PEM	PEM	PEM	3	
+WT_rep3-20231129-mtxf.png	File_6090226b_59ef_4543_97e3_52bc55f897a5	WT	rep3	PML	PEM	PL	PEM	PEM	PEM	3	
+WT_rep3-20231129-nqod.png	File_85a0082e_0ad2_4692_a2c6_85d4a8adb3bf	WT	rep3	PML	PEM	PL	PEM	PEM	PEM	3	
+WT_rep3-20231129-msxh.png	File_95238803_cbc8_4e00_b9ff_472be9857f2a	WT	rep3	PML	PEM	PL	PEM	PEM	PEM	3	
+WT_rep3-20231129-msyr.png	File_9866db50_128d_4a74_9905_b76a2f386ce9	WT	rep3	PML	PEM	PL	PEM	PEM	PEM	3	
+WT_rep3-20231129-mtps.png	File_9dd39673_2a7d_4dbd_a14d_fb271d3f131d	WT	rep3	PML	PEM	PL	PEM	PEM	PEM	3	Or PLE 3
+WT_rep3-20231129-mxrk.png	File_bc299f9a_4d24_465b_a926_7193eab1bfab	WT	rep3	PML	PEM	PL	PEM	PEM	PEM	3	Mutant?
+WT_rep3-20231129-mxtm.png	File_d78ceab5_5f2b_492c_9af5_50c6498a5ded	WT	rep3	PML	PEM	PL	PEM	PEM	PEM	3	PLE?
+WT_rep3-20231129-mtlz.png	File_e2f8d7b7_7c40_4c85_9366_a2c4b232d506	WT	rep3	PML	PEM	PL	PEM	PEM	PEM	3	Mutant?
+WT_rep3-20231129-mtyb.png	File_e43bec38_5602_4375_9944_147e249361f9	WT	rep3	PML	PEM	PL	PEM	PEM	PEM	3	PLE? Mutant?
+WT_rep3-20231129-nqdr.png	File_e98e9a45_a6ca_458c_9383_e6f40b854df6	WT	rep3	PML	PEM	PL	PEM	PEM	PEM	3	
+WT_rep3-20231129-msit.png	File_0b25b519_da0d_4e63_8031_a4e275dc8ecb	WT	rep3	ZE	ZEM	ZEM	ZEM	ZEM	ZEM	1	
+WT_rep3-20231129-msgm.png	File_a2368823_a603_4a43_b1a2_6ba21a43be1a	WT	rep3	ZEL	ZEM	ZEM	ZEM	ZEM	ZEM	1	Or ZME
+WT_rep3-20231129-msib.png	File_bbd8c4db_4fea_4caf_8a76_11feb5514bfa	WT	rep3	ZEL	ZEM	ZEM	ZEM	ZEM	ZEM	1	ZME?
+WT_rep3-20231129-mthg.png	File_1699d8d7_7b3f_4669_bc4b_013f3c469e94	WT	rep3	ZL	ZL	ZL	ZL	ZL	ZL	2	
+WT_rep3-20231129-nqkf.png	File_21df3901_1d36_447b_877a_58ba6b81f814	WT	rep3	ZL	ZL	ZL	ZL	ZL	ZL	2	
+WT_rep3-20231129-mvtj.png	File_f0714cb8_55c4_4448_a4ea_b1a32a2ff394	WT	rep3	ZL	ZL	ZL	ZL	ZL	ZL	2	
+WT_rep3-20231129-mtij.png	File_26c775a8_c41d_4e5c_852b_b355e23b3550	WT	rep3	ZLL	ZL	ZL	ZL	ZL	PE	2	
+WT_rep3-20231129-mshj.png	File_56df1c5e_c4f8_4c04_b978_ff79bdde0d83	WT	rep3	ZM	ZEM	ZEM	ZEM	ZEM	ZEM	1	
+WT_rep3_tec2-20231201-lerh.png	File_7110aa2b_cbaf_4087_b503_4a4e603e9ff6	WT	rep3	ZM	ZEM	ZEM	ZEM	ZEM	ZEM	1	
+WT_rep3-20231129-mvvo.png	File_7d92376e_d88c_41e5_b78f_b7451dd475ba	WT	rep3	ZM	ZEM	ZEM	ZEM	ZEM	ZEM	1	
+WT_rep3-20231129-muta.png	File_752704bd_d017_46e0_83ff_69052b014bcd	WT	rep3	ZME	ZEM	ZEM	ZEM	ZEM	ZEM	1	
+WT_rep3-20231129-muew.png	File_dd7adb57_7920_42c6_afba_51296ebfef2b	WT	rep3	ZML	ZEM	ZEM	ZEM	ZL	ZL	1	
+WT_rep4-20231129-oidj.png	File_1f35f6f7_6152_4017_92b1_8b04c571f1cd	WT	rep4	DE	D	D	D	D	D	3	
+WT_rep4-20231129-ofcs.png	File_2dbecac7_8682_4880_acd4_9093b5da6fd6	WT	rep4	DE	D	D	D	D	D	3	
+WT_rep4-20231129-ofbe.png	File_7a6be837_aaa1_410b_a14e_ca258a427725	WT	rep4	DE	D	D	D	D	D	3	
+WT_rep4-20231129-odok.png	File_a9660470_fa94_4257_9e63_964efab0d9f7	WT	rep4	DE	D	D	D	D	D	3	
+WT_rep4-20231129-oafi.png	File_babb0fd9_53f7_46e3_83be_2ee0d254c3a9	WT	rep4	DE	D	D	D	D	D	3	
+WT_rep4-20231129-ohue.png	File_df602f6d_46f6_436d_afc0_4377658fee48	WT	rep4	DE	D	D	D	D	D	3	
+WT_rep4-20231129-ogml.png	File_e386aa4c_06bc_44e1_bfa4_3edaede36f69	WT	rep4	DE	D	D	D	D	D	3	
+WT_rep4-20231129-ognt.png	File_e69b1395_1f14_441b_b3fe_c46248c77fa7	WT	rep4	DE	D	D	D	D	D	3	
+WT_rep4-20231129-oaer.png	File_fd256d29_6ae9_4b96_91f0_ec7a5b2a466b	WT	rep4	DE	D	D	D	D	D	3	
+WT_rep4-20231129-ognc.png	File_0e3f379f_c6aa_4ce0_a1a2_a50e7430e1e8	WT	rep4	DEL	D	D	D	D	D	3	
+WT_rep4-20231129-ogol.png	File_73910fe2_6a15_4a05_98b2_8b1bed8a53c4	WT	rep4	DEL	D	D	D	D	D	3	
+WT_rep4-20231129-ohtn.png	File_d7b9cc36_4ecd_45c3_b45b_dc7c4ff8a512	WT	rep4	DEL	D	D	D	D	D	3	
+WT_rep4-20231129-oieq.png	File_9b4561f4_28c9_403f_ae6c_7c657616c0e8	WT	rep4	DL	D	D	D	D	D	2	A light 2—could be 3 too
+WT_rep4-20231129-ohov.png	File_157fc7b2_b6c8_41da_8014_0f16a336481a	WT	rep4	DL	D	D	D	D	D	3	
+WT_rep4-20231129-ohlf.png	File_170e1c6d_a9e6_4d1f_b34e_9678b83ffe61	WT	rep4	DL	D	D	D	D	D	3	
+WT_rep4-20231129-oict.png	File_1fa6184f_eb83_4474_82ed_5cd86b8542d8	WT	rep4	DL	D	D	D	D	D	3	
+WT_rep4-20231129-ohpg.png	File_23926473_4805_405e_b05d_1970e2304dc1	WT	rep4	DL	D	D	D	D	D	3	
+WT_rep4-20231129-ohnu.png	File_3483e49b_7a72_448a_ba42_a7045cf55b06	WT	rep4	DL	D	D	D	D	D	3	
+WT_rep4-20231129-ohpy.png	File_6b47e643_c86d_428c_bf01_d1d07be2c434	WT	rep4	DL	D	D	D	D	D	3	
+WT_rep4-20231129-ohmf.png	File_a385576b_d9e0_418d_b321_b9e8189fe1cc	WT	rep4	DL	D	D	D	D	D	3	
+WT_rep4-20231129-ohnj.png	File_a5ca1bde_5c33_436d_be3c_de67f511e9ee	WT	rep4	DL	D	D	D	D	D	3	
+WT_rep4-20231129-ohmt.png	File_cde0b7ab_3d28_4d98_93b9_54ad9f68e1d7	WT	rep4	DL	D	D	D	D	D	3	
+WT_rep4-20231129-ohlt.png	File_e2e048fb_cfef_404b_9f26_71cb62dbac4b	WT	rep4	DL	D	D	D	D	D	3	
+WT_rep4-20231129-oiea.png	File_f31ddae2_6c12_44d1_839b_a2e91dbb1ebf	WT	rep4	DL	D	D	D	D	D	3	
+WT_rep4-20231129-ohqt.png	File_f347f8e0_8742_4834_aab5_85e96f061ca4	WT	rep4	DL	D	D	D	D	D	3	
+WT_rep4-20231129-odjj.png	File_f5a4bb41_6003_415f_a86b_dfcee64bd94f	WT	rep4	DL	D	D	D	D	D	3	Nice pic
+WT_rep4-20231129-odpq.png	File_1b5a56c9_c178_438e_b021_0b4cec8be5a1	WT	rep4	DLE	D	D	D	D	D	3	
+WT_rep4-20231129-odnp.png	File_29c5c4b6_16f5_4fa7_bc40_0778bb593bb2	WT	rep4	DLE	D	D	D	D	D	3	
+WT_rep4-20231129-odoz.png	File_3e7593d5_16a6_4dd7_ac9e_f689df6179f2	WT	rep4	DLE	D	D	D	D	D	3	
+WT_rep4-20231129-ohoh.png	File_d9bd6354_1472_498b_b49f_bc7175ccf20a	WT	rep4	DLE	D	D	D	D	D	3	
+WT_rep4-20231129-ofev.png	File_8b70b0a9_0067_4e08_b6cb_4e0a8c0dee31	WT	rep4	PE	PEM	PEM	PEM	PEM	PEM	2	
+WT_rep4-20231129-ofhr.png	File_58957b50_ca21_48ee_ba97_00fa7bd6eb61	WT	rep4	PEL	PEM	PEM	PEM	PEM	PEM	2	Mutant? Light 2
+WT_rep4-20231129-obhr.png	File_9ddd0bf1_9c44_4190_be21_6008004da4e1	WT	rep4	PEL	PEM	PEM	PEM	PEM	PEM	2	Or PME
+WT_rep4-20231129-oeoc.png	File_d0b952ab_d37e_45b0_ba97_826a0348afe4	WT	rep4	PL	PL	PL	PL	PL	PL	2	Mutant? Multiple "M foci" and a few other small γH2AX accumulations—calling this as a light 2 (could be a weird 3?)
+WT_rep4-20231129-oevw.png	File_05e004a9_027a_4e69_99e0_f178cad8d106	WT	rep4	PL	PL	PL	PL	PL	PL	3	
+WT_rep4-20231129-ohim.png	File_1b716c86_31d3_43f0_9597_1332db1c135e	WT	rep4	PL	PL	PL	PL	PL	PL	3	
+WT_rep4-20231129-ofpa.png	File_2517b3eb_8a07_4d78_9f33_5d536063d93a	WT	rep4	PL	PL	PL	PL	PL	PL	3	Mutant? Large XY synapsis
+WT_rep4-20231129-odsb.png	File_a62f5d33_3a81_4612_82e5_acba73c1ede0	WT	rep4	PL	PL	PL	PL	PL	PL	3	
+WT_rep4-20231129-ofvu.png	File_a67338e0_297e_4bc3_9d6e_aa13f7b5dba9	WT	rep4	PL	PL	PL	PL	PL	PL	3	
+WT_rep4-20231129-odzd.png	File_a8450f00_3092_4c20_8954_608d140e95ae	WT	rep4	PL	PL	PL	PL	PL	PL	3	Nice pic
+WT_rep4-20231129-ofah.png	File_b0209d7e_fbd6_4a5f_bdb4_0dc700d5673a	WT	rep4	PL	PL	PL	PL	PL	PL	3	Think I spot an "M focus"
+WT_rep4-20231129-ofby.png	File_b617e52b_f075_4343_aec0_ed629bc3515e	WT	rep4	PL	PL	PL	PL	PL	PL	3	
+WT_rep4-20231129-odyk.png	File_bf17fde7_19bf_4274_b089_aa2a55d04ae8	WT	rep4	PL	PL	PL	PL	PL	PL	3	
+WT_rep4-20231129-oeqf.png	File_cda71e82_1262_470d_a159_33fbf06ac67f	WT	rep4	PL	PL	PL	PL	PL	PL	3	Some "wisps" of faint SYCP3 within the nucleus 
+WT_rep4-20231129-odsr.png	File_cf697d56_afb8_4a90_a688_cd2c17168d11	WT	rep4	PL	PL	PL	PL	PL	PL	3	
+WT_rep4-20231129-odlm.png	File_da1cd133_91c1_498d_9db1_0b184bd52224	WT	rep4	PL	PL	PL	PL	PL	PL	3	
+WT_rep4-20231129-ofqr.png	File_e083b48b_0424_469c_8910_03303e519546	WT	rep4	PL	PL	PL	PL	PL	PL	3	
+WT_rep4-20231129-ofvd.png	File_f13560ea_95c3_48ee_8cc2_8e7cbbfe1e27	WT	rep4	PL	PL	PL	PL	PL	PL	3	
+WT_rep4-20231129-odvq.png	File_1c17f1d8_ed69_45bb_9de6_8b0e59b3bbf8	WT	rep4	PLE	PL	PL	PEM	PEM	PEM	3	...or PML
+WT_rep4-20231129-oduz.png	File_21eadec0_e616_47d3_8892_b6283ed38f25	WT	rep4	PLE	PL	PL	PEM	PEM	PEM	3	Or PML
+WT_rep4-20231129-ofrh.png	File_3d9924ce_5c7b_4575_91d4_7d8955660046	WT	rep4	PLE	PL	PL	PEM	PEM	PEM	3	
+WT_rep4-20231129-ohxl.png	File_4b816bfc_2216_4871_a99f_8ffd52db0992	WT	rep4	PLE	PL	PL	PEM	PEM	PEM	3	
+WT_rep4-20231129-ofrz.png	File_9acf19f0_1d95_4e96_a836_4c3812dbf2c9	WT	rep4	PLE	PL	PL	PEM	PEM	PEM	3	Or PML 3
+WT_rep4-20231129-obha.png	File_7ceea91a_982d_4b88_882d_0ef9d864146e	WT	rep4	PM	PEM	PEM	PEM	PEM	PEM	2	
+WT_rep4-20231129-ofgi.png	File_c50e42e2_b9b3_4fe6_93b8_8746f9e25cec	WT	rep4	PM	PEM	PEM	PEM	PEM	PEM	2	Mutant? Very strange self-synapsed XY and smeared XY body
+WT_rep4-20231129-ofhb.png	File_de462237_4f29_457e_996d_69e25081cb4b	WT	rep4	PM	PEM	PEM	PEM	PEM	PEM	2	Mutant? Abnormally large PAR
+WT_rep4-20231129-offn.png	File_ec4c47f4_3235_4f17_beb9_801f54a348b0	WT	rep4	PM	PEM	PEM	PEM	PEM	PEM	2	Mutant? Abnormally large PAR
+WT_rep4-20231129-odwk.png	File_040a2a0d_34db_47b9_b338_3ac09833f07b	WT	rep4	PM	PEM	PEM	PEM	PEM	PEM	3	
+WT_rep4-20231129-ofxl.png	File_067773d7_20cd_4609_b915_e2e7c7edb72b	WT	rep4	PM	PEM	PEM	PEM	PEM	PEM	3	
+WT_rep4-20231129-ogzg.png	File_08693709_f5c8_4507_91b5_8f40293aebca	WT	rep4	PM	PEM	PEM	PEM	PEM	PEM	3	
+WT_rep4-20231129-ohfn.png	File_0cbb6702_fb92_455d_acde_248f4df161f3	WT	rep4	PM	PEM	PEM	PEM	PEM	PEM	3	
+WT_rep4-20231129-ogse.png	File_1381eab1_ffad_4919_90ab_c92e15390473	WT	rep4	PM	PEM	PEM	PEM	PEM	PEM	3	
+WT_rep4-20231129-ohex.png	File_15d596f9_55f8_420c_9b7f_851ce35099e5	WT	rep4	PM	PEM	PEM	PEM	PEM	PEM	3	
+WT_rep4-20231129-ogha.png	File_1828f7d3_e44e_41a6_9b13_30b81c4e35a1	WT	rep4	PM	PEM	PEM	PEM	PEM	PEM	3	
+WT_rep4-20231129-ogxm.png	File_223846ad_812b_4e96_8901_0070a6ac2d78	WT	rep4	PM	PEM	PEM	PEM	PEM	PEM	3	
+WT_rep4-20231129-ohce.png	File_2b21994a_8ea0_4e7c_9b97_eae25013c87b	WT	rep4	PM	PEM	PEM	PEM	PEM	PEM	3	
+WT_rep4-20231129-ogvi.png	File_2f483d14_6b1c_4aeb_b6a2_dabfa5687ae6	WT	rep4	PM	PEM	PEM	PEM	PEM	PEM	3	
+WT_rep4-20231129-ogum.png	File_3adfa460_65ae_4705_80a0_07790d84248b	WT	rep4	PM	PEM	PEM	PEM	PEM	PEM	3	
+WT_rep4-20231129-ohdw.png	File_4461c251_d23e_4ac7_97f7_0861f4252be1	WT	rep4	PM	PEM	PEM	PEM	PEM	PEM	3	
+WT_rep4-20231129-oekm.png	File_4bda1edf_7290_492c_8907_972e891714cc	WT	rep4	PM	PEM	PEM	PEM	PEM	PEM	3	
+WT_rep4-20231129-ogdt.png	File_4feea308_07f2_4604_bd2d_5d35b73a8a59	WT	rep4	PM	PEM	PEM	PEM	PEM	PEM	3	
+WT_rep4-20231129-ogaz.png	File_51f9b1b9_470d_437a_9aea_d22a2a87a54f	WT	rep4	PM	PEM	PEM	PEM	PEM	PEM	3	
+WT_rep4-20231129-oeli.png	File_5715e7f9_ad4b_4031_a71b_b60303bba0cb	WT	rep4	PM	PEM	PEM	PEM	PEM	PEM	3	
+WT_rep4-20231129-ogdb.png	File_58e762bc_6490_44dc_806d_65d37ae4947f	WT	rep4	PM	PEM	PEM	PEM	PEM	PEM	3	
+WT_rep4-20231129-oduj.png	File_693b7ecc_319a_4c24_bee1_512a9da74b6f	WT	rep4	PM	PEM	PEM	PEM	PEM	PEM	3	
+WT_rep4-20231129-odri.png	File_6cc30d29_23e1_402c_8c51_07ef893a89f2	WT	rep4	PM	PEM	PEM	PEM	PEM	PEM	3	
+WT_rep4-20231129-oema.png	File_76b458f7_c707_4f3d_b962_58944b49a621	WT	rep4	PM	PEM	PEM	PEM	PEM	PEM	3	
+WT_rep4-20231129-oghq.png	File_798876e3_eb2c_4ac5_b395_2cef2e0f619d	WT	rep4	PM	PEM	PEM	PEM	PEM	PEM	3	
+WT_rep4-20231129-ogaj.png	File_80bbb8dd_fc1d_4203_84cb_f67186a14299	WT	rep4	PM	PEM	PEM	PEM	PEM	PEM	3	
+WT_rep4-20231129-ogcm.png	File_8122936e_56b0_49ea_94b3_3b63fd10c3c0	WT	rep4	PM	PEM	PEM	PEM	PEM	PEM	3	
+WT_rep4-20231129-ogbq.png	File_8ce70852_7b52_4024_b3a3_6a325d79efbe	WT	rep4	PM	PEM	PEM	PEM	PEM	PEM	3	
+WT_rep4-20231129-ogsx.png	File_a5529ce0_b71b_48f8_9c89_c48f3155f661	WT	rep4	PM	PEM	PEM	PEM	PEM	PEM	3	
+WT_rep4-20231129-ohfy.png	File_ac9cf28c_08e6_4b82_bbb7_5ad74f895873	WT	rep4	PM	PEM	PEM	PEM	PEM	PEM	3	
+WT_rep4-20231129-ofjs.png	File_b45efcaf_561d_4f33_815d_37524e3930a3	WT	rep4	PM	PEM	PEM	PEM	PEM	PEM	3	Nice pic
+WT_rep4-20231129-ogwy.png	File_cec29e1e_8849_4089_8964_41017002393f	WT	rep4	PM	PEM	PEM	PEM	PEM	PEM	3	Same kinds of "wisps"...
+WT_rep4-20231129-ogwe.png	File_d3834701_da81_4f41_9b36_7603abf52fd7	WT	rep4	PM	PEM	PEM	PEM	PEM	PEM	3	
+WT_rep4-20231129-ohcy.png	File_d58e5a13_340a_4b48_88a2_7988457d47b3	WT	rep4	PM	PEM	PEM	PEM	PEM	PEM	3	Mutant? Abnormal XY self-synapsis
+WT_rep4-20231129-ogej.png	File_e262b258_0e93_4e7d_8791_2441e32969e4	WT	rep4	PM	PEM	PEM	PEM	PEM	PEM	3	
+WT_rep4-20231129-ogyg.png	File_e7d0c598_2d7a_4ed8_a804_05174ab3ed29	WT	rep4	PM	PEM	PEM	PEM	PEM	PEM	3	
+WT_rep4-20231129-ogif.png	File_f0417e08_00e7_4fe5_a35d_047e674af98a	WT	rep4	PM	PEM	PEM	PEM	PEM	PEM	3	
+WT_rep4-20231129-ogix.png	File_fa541b13_2fd2_452c_9f91_8ad015f8e752	WT	rep4	PM	PEM	PEM	PEM	PEM	PEM	3	
+WT_rep4-20231129-obji.png	File_13a4c2a5_69b9_49c9_84d2_082299692aad	WT	rep4	PME	PEM	PEM	PEM	PEM	PEM	2	Light 2
+WT_rep4-20231129-obim.png	File_4ebc603e_ba0f_4a2c_bdb0_09a3713ac6df	WT	rep4	PME	PEM	PEM	PEM	PEM	PEM	2	
+WT_rep4-20231129-ohww.png	File_4820b8b4_220a_4976_a41e_3a60a551a0de	WT	rep4	PML	PEM	PL	PEM	PEM	PEM	3	
+WT_rep4-20231129-oewr.png	File_93c5d65e_d0d4_4f94_b85e_41573170b210	WT	rep4	PML	PEM	PL	PEM	PEM	PEM	3	
+WT_rep4-20231129-oeix.png	File_bcfc5258_83fd_4253_9cb8_52633987a29e	WT	rep4	PML	PEM	PL	PEM	PEM	PEM	3	
+WT_rep4-20231129-oepf.png	File_e6708b8c_d29c_4590_95d3_2b6c78927093	WT	rep4	PML	PEM	PL	PEM	PEM	PEM	3	Or PLE? Mutant? PAR is cut off...
+WT_rep4-20231129-oejt.png	File_f8ef75ca_ebb3_44e2_9501_8949b0c289b9	WT	rep4	PML	PEM	PL	PEM	PEM	PEM	3	
+WT_rep4-20231205-mizm.png	File_3b1ebc23_98e9_44ec_af1b_e4f0f93559ae	WT	rep4	ZE	ZEM	ZEM	ZEM	ZEM	ZEM	1	
+WT_rep4-20231205-mixm.png	File_4f125c9f_3f56_43da_9312_875604619bed	WT	rep4	ZE	ZEM	ZEM	ZEM	ZEM	ZEM	1	
+WT_rep4-20231205-miyd.png	File_7fe07e54_3d9c_42ed_9ca7_d1a3f39dc3fd	WT	rep4	ZE	ZEM	ZEM	ZEM	ZEM	ZEM	1	
+WT_rep4-20231129-oeda.png	File_35fffc7c_498d_44f6_b128_66ba9f80aeec	WT	rep4	ZL	ZL	ZL	ZL	ZL	ZL	2	
+WT_rep4-20231129-oefw.png	File_4454daea_c27e_40d4_9e5d_050b6432b64a	WT	rep4	ZL	ZL	ZL	ZL	ZL	ZL	2	
+WT_rep4-20231129-oefb.png	File_88064f9b_dee2_4cd2_98f3_6bf3b9525c12	WT	rep4	ZL	ZL	ZL	ZL	ZL	ZL	2	
+WT_rep4-20231129-oedr.png	File_a94efcc3_a349_4c61_accd_1d605446384a	WT	rep4	ZL	ZL	ZL	ZL	ZL	ZL	2	
+WT_rep4-20231129-oeei.png	File_b1b89900_9642_4977_a123_b7e11974ae8c	WT	rep4	ZL	ZL	ZL	ZL	ZL	ZL	2	

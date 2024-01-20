@@ -177,7 +177,7 @@ if (isTRUE(print_plots)) {
 
 save_plots <- TRUE
 if (isTRUE(save_plots)) {
-    #  Save the plot with SD bars (will be saved to $HOME directory)
+    #  Save the plot with SD bars
     ggplot2::ggsave(
         file.path(dir_script, "plots", "Fig-4B_prop-K9me3_EP-classes_SD.pdf"),
         plot = plot_sd,
@@ -186,7 +186,7 @@ if (isTRUE(save_plots)) {
         dpi = 300
     )
     
-    #  Save the plot with SEM bars (will be saved to $HOME directory)
+    #  Save the plot with SEM bars
     ggplot2::ggsave(
         file.path(dir_script, "plots", "Fig-4B_prop-K9me3_EP-classes_SEM.pdf"),
         plot = plot_sem,
