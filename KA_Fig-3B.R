@@ -185,8 +185,8 @@ if (isTRUE(check_p_values)) {
 }
 
 #  The p-values from t-tests are as follows:
-#+ - ZEM  1
-#+ - ZL   0.1709868
-#+ - PEM  0.3966955
+#+ - ZEM  0.8104641
+#+ - ZL   0.03361754
+#+ - PEM  0.4533276
 #+ - PL   0.03098515
 #+ - D    0.04498352
