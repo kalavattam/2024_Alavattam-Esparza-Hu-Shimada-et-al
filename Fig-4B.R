@@ -20,6 +20,54 @@ dir_script <- if (
 library(tidyverse)
 library(scales)
 
+#  Define function(s)
+#  Function to plot stacked bar graphs for WT and KO genotypes with percentages
+#+ of counts assigned to each category
+plot_bar_graphs_categorical <- function(aggregated_data) {
+    #  Cast the genotype assignments as factors
+    aggregated_data$genotype <- factor(
+        aggregated_data$genotype, levels = c("WT", "KO")
+    )
+    
+    #  First, calculate the total counts for each genotype
+    total_counts_per_genotype <- aggregated_data %>%
+        group_by(substage, genotype) %>%
+        summarize(total_counts = sum(total_tally), .groups = 'drop')
+    
+    #  Then, join this back to the original data to calculate percentages
+    aggregated_data_w_pcts <- dplyr::left_join(
+        aggregated_data,
+        total_counts_per_genotype,
+        by = c("substage", "genotype")
+    ) %>%
+        mutate(percentage = (total_tally / total_counts) * 100)
+    
+    #  Plotting the data with corrected percentages
+    plot <- ggplot2::ggplot(
+        aggregated_data_w_pcts,
+        aes(x = genotype, y = percentage, fill = as.factor(class))
+    ) +
+        geom_bar(stat = "identity", position = "fill") +
+        scale_y_continuous(
+            labels = scales::percent_format()
+        ) +
+        labs(
+            x = "Genotype",
+            y = "Percentage", 
+            title = "Percentage of counts by class for each genotype in EP",
+            fill = "Class"
+        ) +
+        theme_minimal() +
+        theme(
+            axis.text.x = element_text(angle = 45, hjust = 1),
+            legend.title = element_text(size = 12),
+            legend.text = element_text(size = 10)
+        )
+    
+    return(plot)
+}
+
+
 #  Load in data from TSV file; files of interest are stored in the base
 #+ directory of the repo, which is the same location
 data <- readr::read_tsv(
@@ -175,7 +223,7 @@ if (isTRUE(print_plots)) {
     print(plot_sd)
 }
 
-save_plots <- TRUE
+save_plots <- FALSE
 if (isTRUE(save_plots)) {
     #  Save the plot with SD bars
     ggplot2::ggsave(
@@ -202,8 +250,29 @@ aggregated_data <- data %>%
     dplyr::group_by(substage, genotype, class) %>%
     dplyr::summarize(total_tally = sum(total, na.rm = TRUE), .groups = 'drop')
 
+#  Plot the categorical data (no consideration of per-replicate means)
+plot_categorical <- plot_bar_graphs_categorical(aggregated_data)
+
 #  Initialize a list to store contingency tables
 contingency_tables <- list()
+
+print_plot <- TRUE
+if (isTRUE(print_plots)) {
+    print(plot_categorical)
+}
+
+save_plot <- TRUE
+if (isTRUE(save_plot)) {
+    ggplot2::ggsave(
+        file.path(
+            dir_script, "plots", "Fig-4B_prop-K9me3_EP-classes_categorical.pdf"
+        ),
+        plot = plot_categorical,
+        width = 8.5,
+        height = 6,
+        dpi = 300
+    )
+}
 
 #  Iterate over each substage, creating contingency tables for each
 for (sub in unique(aggregated_data$substage)) {
@@ -271,16 +340,16 @@ for (sub in names(contingency_tables)) {
     chisq_results[[sub]] <- chisq_test_result
 }
 
-#  Check p-values from Fisher's exact tests
+#  Check p-value from the Fisher's exact test
 check_p_values <- TRUE
 if (isTRUE(check_p_values)) print(fisher_results$EP$p.value)
 
-#  The p-values from Fisher's exact tests are as follows:
+#  The p-value from the Fisher's exact tests are as follows:
 #+ - EP 1.795446e-07
 
-#  Check p-values from Chi-squared tests
+#  Check p-value from the Chi-squared test
 check_p_values <- TRUE
 if (isTRUE(check_p_values)) print(chisq_results$EP)
 
-#  The p-values from Chi-squared tests are as follows:
+#  The p-value from the Chi-squared tests are as follows:
 #+ - EP 1.243e-06

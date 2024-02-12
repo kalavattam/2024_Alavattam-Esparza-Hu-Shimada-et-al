@@ -1,0 +1,57 @@
+tag	birth_date	sac_date	sac_age_dpp	sex	gene	deletion_bp	genotype	body_g	testis_1_g	testis_2_g	testis_combined_g	related_1	related_2	related_3	related_4	related_5	who	notes_1	notes_2	notes_3	notes_4
+2760	3/1/17	1/23/18	328	Male	Mcaf2	169	homozygous_mut	32.2	0.0297	0.0294	0.0591	2761	2762	NA	NA	NA	Kris	"""chromosome spread replicate 1a"""	"""maybe not 'chromosome spread replicate 1'"""	"""refer to these as 'chromosome spread replicate 0'"""	
+2761	3/1/17	2/5/18	341	Male	Mcaf2	31	homozygous_mut	36.1	0.0326	0.028	0.0606	2760	2762	NA	NA	NA	Kris	"""chromosome spread replicate 1b"""	"""maybe not 'chromosome spread replicate 1'"""	"""refer to these as 'chromosome spread replicate 0'"""	
+3260	3/15/18	5/20/18	66	Male	Mcaf2	17	homozygous_wt	23.9	0.0853	0.0872	0.1725	3262	3264	3267	NA	NA	Kris	"""chromosome spread replicate 2"""			
+3262	3/15/18	5/10/18	56	Male	Mcaf2	17	heterozygous_wt_mut	21.9	0.0902	0.0905	0.1807	3260	3264	3267	NA	NA	Kris	"""maybe 'chromosome spread replicate 1''"""	"""according to Anna's records, there are many chromosome spread images of this replicate"""	"""Is this the true replicate 1 and I no longer have record of it because we ran out of slides?"""	"""1/23/20 (ASD): Seems to be the true replicate 1; all slides were used, thus not found in the current CS database."""
+3264	3/15/18	5/10/18	56	Male	Mcaf2	17	homozygous_mut	23.6	0.0276	0.0251	0.0527	3260	3262	3267	NA	NA	Kris	"""maybe 'chromosome spread replicate 1''"""	"""according to Anna's records, there are many chromosome spread images of this replicate"""	"""Is this the true replicate 1 and I no longer have record of it because we ran out of slides?"""	"""1/23/20 (ASD): Seems to be the true replicate 1; all slides were used, thus not found in the current CS database."""
+3267	3/15/18	5/20/18	66	Male	Mcaf2	17	homozygous_mut	24.6	0.0316	0.0326	0.0642	3260	3262	3264	NA	NA	Kris	"""chromosome spread replicate 2"""			
+3274	3/22/18	5/27/18	66	Male	Mcaf2	17	homozygous_mut	23	0.0293	0.0281	0.0574	3270	3273	3276	NA	NA	Kris	"""chromosome spread replicate 3"""			
+3276	3/22/18	5/27/18	66	Male	Mcaf2	17	homozygous_wt	23.4	0.0855	0.0803	0.1658	3270	3273	3274	NA	NA	Kris	"""chromosome spread replicate 3"""			
+3224	6/12/18	7/26/18	44	Male	Mcaf2	17	homozygous_wt	18.4	0.0531	0.066	0.1191	3277	3278	3279	NA	NA	Kris	"""chromosome spread replicate 4"""	"""Did Anna make these? CS database: Kris"""		
+3277	6/12/18	7/26/18	44	Male	Mcaf2	17	homozygous_mut	18.6	0.024	0.0229	0.0469	3224	3278	3279	NA	NA	Kris	"""chromosome spread replicate 4"""	"""Did Anna make these? CS database: Kris"""		
+3278	6/12/18	7/26/18	44	Male	Mcaf2	17	heterozygous_wt_mut	15.2	0.0272	0.0364	0.0636	3224	3277	3279	NA	NA	Anna				
+3279	6/12/18	7/24/18	42	Male	Mcaf2	17	heterozygous_wt_mut	33.4	0.101	0.0971	0.1981	3224	3277	3278	3290	NA	Anna				
+3290	6/12/18	7/24/18	42	Male	Mcaf2	17	homozygous_mut	27.6	0.0339	0.0338	0.0677	3279	3292	NA	NA	NA	Anna				
+3292	6/15/18	7/24/18	39	Male	Mcaf2	17	homozygous_mut	17.4	0.0257	0.0212	0.0469	3290	NA	NA	NA	NA	Anna				
+3202	6/18/18	7/26/18	38	Male	Mcaf2	17	homozygous_wt	22.7	0.0813	0.0791	0.1604	3204	NA	NA	NA	NA	Anna	"""was previously thought to be replicate 4, but this is not consistent with Anna's notes, and with the chromosome spread database, which list the dpp as '44'"""	"""chromosome spread replicate 4; also used for IHC (control for 3292 homozygous_mut sample)"""		
+3204	6/18/18	7/26/18	38	Male	Mcaf2	17	homozygous_mut	17.8	0.0202	0.0208	0.041	3202	NA	NA	NA	NA	Anna	"""was previously thought to be replicate 4, but this is not consistent with Anna's notes, and with the chromosome spread database, which list the dpp as '44'"""	"""chromosome spread replicate 4"""		
+3300	6/23/18	7/24/18	31	Male	Mcaf2	17	homozygous_mut	30.3	0.0364	0.034	0.0704	3394	NA	NA	NA	NA	Kris	"""chromosome spread replicate 7"""			
+3394	6/23/18	7/24/18	31	Male	Mcaf2	17	homozygous_wt	32.3	0.085	0.0933	0.1783	3300	NA	NA	NA	NA	Kris	"""chromosome spread replicate 7"""			
+5411	8/3/18	10/11/18	69	Male	Mcaf2	17	homozygous_wt	28	0.0935	0.1011	0.1946	5412	NA	NA	NA	NA	Anna	"""chromosome spread replicate 6"""			
+5412	8/3/18	10/11/18	69	Male	Mcaf2	17	homozygous_mut	24.6	0.0299	0.0311	0.061	5411	NA	NA	NA	NA	Anna	"""chromosome spread replicate 6"""			
+1500	8/20/18	10/5/18	46	Male	Mcaf2	17	homozygous_wt	21.4	0.0817	0.0753	0.157	1500	NA	NA	NA	NA	Anna	"""chromosome spread replicate 5"""			
+1875	8/20/18	10/5/18	46	Male	Mcaf2	17	homozygous_mut	23.1	0.026	0.0257	0.0517	1875	NA	NA	NA	NA	Anna	"""chromosome spread replicate 5"""			
+5601	10/14/18	7/26/19	285	Male	Mcaf2	17	heterozygous_wt_mut	31	0.0986	0.105	0.2036	5602	NA	NA	NA	NA	Kris				
+5602	10/14/18	7/26/19	285	Male	Mcaf2	17	heterozygous_wt_mut	30.6	0.0995	0.0898	0.1893	5601	NA	NA	NA	NA	Kris				
+5607	10/14/18	7/25/19	284	Male	Mcaf2	17	homozygous_wt	29.3	0.0967	0.1001	0.1968	5608	NA	NA	NA	NA	Kris	"""chromosome spread replicate 8"""			
+5608	10/14/18	7/25/19	284	Male	Mcaf2	17	homozygous_mut	31.1	0.0311	0.0311	0.0622	5607	NA	NA	NA	NA	Kris	"""chromosome spread replicate 8"""			
+5623	11/18/18	7/28/19	252	Male	Mcaf2	17	homozygous_mut	33.4	0.0393	0.036	0.0753	5626	5628	5631	NA	NA	Kris				
+5626	11/18/18	7/28/19	252	Male	Mcaf2	17	heterozygous_wt_mut	28.7	0.102	0.1074	0.2094	5623	5628	5631	NA	NA	Kris				
+5628	11/18/18	7/28/19	252	Male	Mcaf2	17	homozygous_wt	27	0.0925	0.0871	0.1796	5623	5626	5631	NA	NA	Kris				
+5634	11/30/18	7/28/19	240	Male	Mcaf2	17	heterozygous_wt_mut	30.4	0.1095	0.1168	0.2263	5635	NA	NA	NA	NA	Kris				
+5635	11/30/18	7/28/19	240	Male	Mcaf2	17	homozygous_mut	27.4	0.0384	0.0396	0.078	5634	NA	NA	NA	NA	Kris				
+5638	12/2/18	7/28/19	238	Male	Mcaf2	17	homozygous_mut	31.6	0.0423	0.0425	0.0848	5639	5643	NA	NA	NA	Kris				
+5639	12/2/18	7/28/19	238	Male	Mcaf2	17	heterozygous_wt_mut	28.6	0.1081	0.1141	0.2222	5638	5643	NA	NA	NA	Kris				
+5643	12/2/18	7/28/19	238	Male	Mcaf2	17	homozygous_mut	25.9	0.0365	0.0382	0.0747	5638	5639	NA	NA	NA	Kris				
+7703	7/1/19	8/5/19	35	Male	Mcaf2	17	homozygous_mut	14.8	0.0196	0.0191	0.0387	7704	7709	NA	NA	NA	Kris	"""chromosome spread replicate 9"""			
+7709	7/1/19	8/5/19	35	Male	Mcaf2	17	homozygous_wt	14.7	0.0389	0.04	0.0789	7703	7704	NA	NA	NA	Kris	"""chromosome spread replicate 9"""			
+4557	10/24/19	1/23/20	91	Male	Mcaf2	17	homozygous_mut	16.3	0.0223	0.0249	0.0472	4558	4560	4561	NA	NA	Kris				
+4558	10/24/19	1/23/20	91	Male	Mcaf2	17	heterozygous_wt_mut	17.4	0.076	0.0814	0.1574	4557	4560	4561	NA	NA	Kris	"""deceased 1/23/20 (ASD), thus sacrificed and sampled the remaining Mcaf2KO littermates; sampled the deceased mouse too—unknown how long it was dead"""			
+4560	10/24/19	1/23/20	91	Male	Mcaf2	17	homozygous_mut	16.7	0.0177	0.023	0.0407	4557	4558	4561	NA	NA	Kris				
+4561	10/24/19	1/23/20	91	Male	Mcaf2	17	homozygous_mut	15.9	0.02	0.0215	0.0415	4557	4558	4560	NA	NA	Kris				
+5677	1/26/19	2/1/20	371	Male	Mcaf2	17	heterozygous_wt_mut	30.5	0.0988	0.1134	0.2122	5680	NA	NA	NA	NA	Kris	"""chromosome spread replicate 10"""	"""Nuclei ruptured from overexposure to detergent in the 2% PFA fixation solution (see lab notebook)."""	"""Keep the slides: They provide great examples for appearance of certain CS 'artifacts.'"""	
+5680	1/26/19	2/1/20	371	Male	Mcaf2	17	homozygous_mut	33.7	0.0326	0.0354	0.068	5677	NA	NA	NA	NA	Kris	"""chromosome spread replicate 10"""	"""Nuclei ruptured from overexposure to detergent in the 2% PFA fixation solution (see lab notebook)."""	"""Keep the slides: They provide great examples for appearance of certain CS 'artifacts.'"""	
+5661	1/10/19	2/10/20	396	Male	Mcaf2	17	heterozygous_wt_mut	31.2	0.1015	0.0957	0.1972	5655	5656	5662	5663	5664	Kris	"""chromosome spread replicate 11"""	"""3D slide replicate 1."""		
+5663	1/10/19	2/10/20	396	Male	Mcaf2	17	homozygous_mut	32	0.0368	0.0353	0.0721	5655	5656	5661	5662	5664	Kris	"""chromosome spread replicate 11"""	"""3D slide replicate 1."""		
+5655	1/10/19	2/22/20	408	Male	Mcaf2	17	heterozygous_wt_mut	30.8	0.1108	0.1185	0.2293	5656	5661	5662	5663	5664	Kris	"""chromosome spread replicate 12; made with 0.08% Triton X-100, not 0.1% Triton X-100, in the 2% PFA fixation solution."""	"""3D slide replicate 2."""		
+5656	1/10/19	2/22/20	408	Male	Mcaf2	17	homozygous_mut	33.2	0.0294	0.0307	0.0601	5655	5661	5662	5663	5664	Kris	"""chromosome spread replicate 12; made with 0.08% Triton X-100, not 0.1% Triton X-100, in the 2% PFA fixation solution."""	"""3D slide replicate 2."""		
+5664	1/10/19	2/22/20	408	Male	Mcaf2	17	heterozygous_wt_mut	29.9	0.084	0.093	0.177	5655	5656	5661	5662	5663	Kris	"""chromosome spread replicate 13; made with 0.08% Triton X-100, not 0.1% Triton X-100, in the 2% PFA fixation solution. Tubule mashing via tweezers."""	"""3D slide replicate 3."""		
+5662	1/10/19	2/22/20	408	Male	Mcaf2	17	homozygous_mut	29.4	0.0371	0.0355	0.0726	5655	5656	5661	5663	5664	Kris	"""chromosome spread replicate 13; made with 0.08% Triton X-100, not 0.1% Triton X-100, in the 2% PFA fixation solution. Tubule mashing via tweezers."""	"""3D slide replicate 3."""		
+1114	5/17/21	9/24/21	130	Male	Mcaf2	17	homozygous_mut	38.6	NA	NA	0.05	NA	NA	NA	NA	NA	Jasmine				
+1115	5/17/21	9/24/21	130	Male	Mcaf2	17	homozygous_wt	34.6	NA	NA	0.18	NA	NA	NA	NA	NA	Jasmine				
+1409	7/22/21	9/24/21	64	Male	Mcaf2	17	homozygous_mut	27.6	NA	NA	0.07	NA	NA	NA	NA	NA	Jasmine				
+1408	7/22/21	9/24/21	64	Male	Mcaf2	17	homozygous_wt	27.7	NA	NA	0.14	NA	NA	NA	NA	NA	Jasmine				
+1007	4/17/21	9/24/21	160	Male	Mcaf2	17	homozygous_wt	35.3	NA	NA	0.18	NA	NA	NA	NA	NA	Jasmine				
+1006	4/17/21	9/24/21	160	Male	Mcaf2	17	homozygous_mut	35.8	NA	NA	0.04	NA	NA	NA	NA	NA	Jasmine				
+541	1/4/20	11/18/21	684	Male	Mcaf2	17	homozygous_mut	50.4	NA	NA	0.08	NA	NA	NA	NA	NA	Jasmine				
+542	1/4/20	11/18/21	684	Male	Mcaf2	17	homozygous_wt	50.9	NA	NA	0.22	NA	NA	NA	NA	NA	Jasmine

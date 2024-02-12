@@ -20,6 +20,60 @@ dir_script <- if (
 library(tidyverse)
 library(scales)
 
+#  Define function(s)
+#  Function to plot stacked bar graphs for WT and KO genotypes with percentages
+#+ of counts assigned to each category
+plot_bar_graphs_categorical <- function(aggregated_data) {
+    # aggregated_data <- agg_data
+    
+    #  Create a new column that combines substage and genotype with the desired
+    #+ order; cast it as a factor
+    aggregated_data$substage_genotype <- factor(
+        paste(aggregated_data$substage, aggregated_data$genotype),
+        levels = c(
+            "ZEM WT", "ZEM KO", "ZL WT", "ZL KO", "PEM WT", "PEM KO",
+            "PL WT", "PL KO", "D WT", "D KO"
+        )
+    )
+    
+    #  Calculate the total counts for each substage_genotype combination
+    total_counts_per_substage_genotype <- aggregated_data %>%
+        group_by(substage_genotype) %>%
+        summarize(total_counts = sum(total_tally), .groups = 'drop')
+    
+    #  Then, join this back to the original data to calculate percentages
+    aggregated_data_w_pcts <- dplyr::left_join(
+        aggregated_data,
+        total_counts_per_substage_genotype,
+        by = c("substage_genotype")
+    ) %>%
+        mutate(percentage = (total_tally / total_counts) * 100)
+    
+    #  Plotting the data with corrected percentages
+    plot <- ggplot2::ggplot(
+        aggregated_data_w_pcts,
+        aes(x = substage_genotype, y = percentage, fill = as.factor(class))
+    ) +
+        geom_bar(stat = "identity", position = "fill") +
+        scale_y_continuous(
+            labels = scales::percent_format()
+        ) +
+        labs(
+            x = "Genotype",
+            y = "Percentage", 
+            title = "Percentage of counts by class for each genotype in EP",
+            fill = "Class"
+        ) +
+        theme_minimal() +
+        theme(
+            axis.text.x = element_text(angle = 45, hjust = 1),
+            legend.title = element_text(size = 12),
+            legend.text = element_text(size = 10)
+        )
+    
+    return(plot)
+}
+
 #  Load in and slightly wrangle the data from the TSV file
 data <- readr::read_tsv(
     file.path(
@@ -131,7 +185,7 @@ if (isTRUE(print_plots)) {
     print(plot_sd)
 }
 
-save_plots <- TRUE
+save_plots <- FALSE
 if (isTRUE(save_plots)) {
     #  Save the plot with SD bars (will be saved to $HOME directory)
     ggplot2::ggsave(
@@ -155,6 +209,27 @@ if (isTRUE(save_plots)) {
 agg_data <- data %>%
     dplyr::group_by(substage, genotype, class) %>%
     dplyr::summarize(total_tally = n(), .groups = 'drop')
+
+#  Plot the categorical data (no consideration of per-replicate means)
+plot_categorical <- plot_bar_graphs_categorical(agg_data)
+
+print_plot <- TRUE
+if (isTRUE(print_plot)) {
+    print(plot_categorical)
+}
+
+save_plot <- TRUE
+if (isTRUE(save_plot)) {
+    ggplot2::ggsave(
+        file.path(
+            dir_script, "plots", "KA-Fig-3C_eval-stage-4_categorical.pdf"
+        ),
+        plot = plot_categorical,
+        width = 8.5,
+        height = 6,
+        dpi = 300
+    )
+}
 
 #  Initialize a list to store contingency tables
 contingency_tables <- list()

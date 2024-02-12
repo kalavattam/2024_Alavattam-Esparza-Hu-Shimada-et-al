@@ -3,24 +3,34 @@
 #  Fig-3C.R
 #  KA
 
+#  Determine the directory the script is being run from
+dir_script <- if (
+    interactive() && requireNamespace("rstudioapi", quietly = TRUE)
+) {
+    dirname(rstudioapi::getSourceEditorContext()$path)
+} else {
+    args <- commandArgs(trailingOnly = FALSE)
+    arg_script <- args[grep("^--file=", args)]
+    path_script <- sub("^--file=", "", arg_script[length(arg_script)]) 
+    normalizePath(path_script, mustWork = FALSE)
+    dirname(path_script)
+}
+
 #  Load necessary libraries
-library(googlesheets4)
 library(tidyverse)
 library(scales)
 
-#  Run authentication workflow for Google Sheets API using the googlesheets4
-#+ package
-run_gs4_auth <- FALSE  # Only needs to be run the first time
-if (isTRUE(run_gs4_auth)) googlesheets4::gs4_auth()
-
-#  Read in Google Sheets sheet "yH2AX_all"
-URL_pre <- "https://docs.google.com/spreadsheets/d"
-URL_suf <- "1mjOWHt3MS4rwYOlr0aiIeIeHrIBvzUSPBd6GnjuXES4/edit"
-URL <- paste(URL_pre, URL_suf, sep = "/")
-data <- googlesheets4::read_sheet(URL, sheet = "yH2AX_class-proportion")
-
-#  Combine substage and genotype into a new factor with a specific order
-data <- data %>%
+#  Load in data from TSV file; files of interest are stored in the base
+#+ directory of the repo, which is the same location
+#+ 
+#+ Combine substage and genotype into a new factor with a specific order
+data <- readr::read_tsv(
+    file.path(
+        dir_script, "tsvs",
+        "wrangle-assess_blinded-scoring_Atf7ip2.yH2AX_class-proportion.tsv"
+    ),
+    show_col_types = FALSE
+) %>%
     dplyr::mutate(
         substage_genotype = factor(
             paste(substage, genotype),
@@ -29,7 +39,10 @@ data <- data %>%
                 "PL WT", "PL KO", "D WT", "D KO"
             )
         ),
-        class = factor(class)
+        class = factor(class),
+        tally = as.numeric(tally),
+        sample_size = as.numeric(sample_size),
+        proportion = (as.numeric(gsub("%", "", proportion)) / 100)
     )
 
 #  Aggregate data to calculate mean proportion and other summary statistics for
@@ -166,7 +179,7 @@ if (isTRUE(print_plots)) {
     print(plot_sd)
 }
 
-save_plots <- TRUE
+save_plots <- FALSE
 if (isTRUE(save_plots)) {
     #  Save the plot with SD bars (will be saved to $HOME directory)
     ggplot2::ggsave(
